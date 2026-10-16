@@ -7,11 +7,25 @@ const errors=[];page.on('pageerror',e=>errors.push(e.message));
 await fs.mkdir('tmp/pdfs',{recursive:true});
 try{
  await page.goto('http://localhost:4173');await page.waitForSelector('.sheet');await page.evaluate(()=>document.fonts.ready);
- assert.equal(await page.locator('.sheet').count(),6);
+ assert.equal(await page.locator('.sheet').count(),8);
  assert.equal(await page.locator('#warnings').isVisible(),false);
- assert.equal(await page.locator('.license-footer').count(),6);
+ assert.equal(await page.locator('.license-footer').count(),8);
  assert.ok(await page.locator('.license-footer').evaluateAll(es=>es.every(e=>e.textContent.includes('Quillhound Studios and Felix Isaacs')&&e.querySelector('img').complete)));
  assert.ok(await page.locator('.sheet').evaluateAll(es=>es.every(e=>{const content=e.querySelector('.page-content').getBoundingClientRect();const footer=e.querySelector('.license-footer').getBoundingClientRect();return content.bottom<footer.top;})));
+ const showcase=page.locator('.sheet').nth(6);
+ assert.equal(await showcase.locator('table').count(),8);
+ assert.equal(await page.locator('.sheet').nth(7).locator('table').count(),8);
+ for(const index of [6,7]) {
+  const tables=page.locator('.sheet').nth(index).locator('table');
+  for(const table of await tables.all()) {
+   assert.equal(await table.locator('tbody tr').count(),2);
+   for(const text of await table.locator('tbody td:last-child').allTextContents()) assert.equal(text.trim().split(/\s+/).length,3);
+  }
+ }
+ assert.equal(await page.locator('.sheet').nth(7).getByRole('heading', {name:'Dark Green Table',exact:true}).count(),1);
+ assert.equal(await page.getByRole('heading',{name:'Ink Table',exact:true}).count(),0);
+ await page.locator('.sheet').nth(7).screenshot({path:'tmp/pdfs/palette-guide-dark-green.png'});
+ await showcase.screenshot({path:'tmp/pdfs/palette-guide.png'});
  await page.locator('#insert-button').click();
  assert.equal(await page.locator('dialog:modal').count(),0);
  assert.equal(await page.locator('#insert-button').getAttribute('aria-expanded'),'true');
@@ -35,7 +49,7 @@ try{
  assert.equal(await page.locator('#insert-dialog').isVisible(),false);
  await page.locator('#settings-button').click();await page.locator('#background').selectOption('plain');await page.locator('[data-color="mustard"]').click();await page.locator('#page-start').fill('18');await page.locator('#page-start').dispatchEvent('change');await page.locator('#settings-dialog .close').click();
  assert.match(await page.locator('.sheet').getAttribute('class'),/bg-plain/);assert.equal(await page.locator('.folio').textContent(),'18');
- assert.equal(await page.locator('.sheet .box').evaluate(el=>getComputedStyle(el).borderTopColor),'rgb(236, 172, 66)');
+ assert.equal(await page.locator('.sheet .box').evaluate(el=>getComputedStyle(el).borderTopColor),'rgb(45, 43, 44)');
  assert.equal(await page.locator('.sheet .track').evaluate(el=>getComputedStyle(el).color),'rgb(236, 172, 66)');
  await page.locator('#settings-button').click();await page.locator('#author').fill('Test Publisher');await page.locator('#settings-dialog .close').click();
  assert.match(await page.locator('.license-footer').textContent(),/independent production by Test Publisher/);

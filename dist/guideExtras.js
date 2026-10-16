@@ -25,7 +25,7 @@ Use **Striped fields** for one labelled fact per row. Use a table when entries m
 
 {{box
 ### Try it
-Change this page's accent from raspberry to blue. Every table header and shaded row updates together. A block with its own explicit accent remains independent.
+Change a table's \`accent=black\` to \`accent=blue\` to recolor it. Remove that option to inherit this page's raspberry accent.
 }}
 `,
 `{{page background=canopy accent=malachite}}

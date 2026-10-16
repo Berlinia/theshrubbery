@@ -1,3 +1,4 @@
+import {PALETTE_GUIDE} from './paletteGuide.js';
 import {GUIDE_EXTRAS} from './guideExtras.js';
 export const GUIDE_TITLE = "Writing in Shrubbery";
 export const LEGACY_EXAMPLE_HASH = 4151971916;
@@ -7,16 +8,16 @@ export { SNIPPETS } from './snippets.js';
 
 export const PREVIOUS_GUIDE_HASH = (()=>{let hash=2166136261;for(let i=0;i<BASE_GUIDE.length;i++)hash=Math.imul(hash^BASE_GUIDE.charCodeAt(i),16777619);return hash>>>0;})();
 export const EXAMPLE = BASE_GUIDE
- .replace('**Other accents:** blue, mustard, raspberry, red, black.', '**Other accents:** blue, mustard, raspberry, red, black, ember, lagoon, indigo, plum, umber, burgundy, antique-gold, midnight.')
+ .replace('**Other accents:** blue, mustard, raspberry, red, black.', '**Other accents:** blue, mustard, raspberry, red, black, ember, lagoon, indigo, plum, umber, burgundy, antique-gold, midnight, dark-green.')
  .replace('**Page templates** adds a reach, character, hazard, scenario or quickplay page.', '**Templates** adds complete multi-page reaches, characters, hazards, scenarios or quickplays.')
  .replace('Page 3 explains columns, backgrounds, saving, and printing.', 'Page 3 covers layout and saving. Pages 4–6 compare table styles, demonstrate blocks, and walk through templates and editor tabs.')
  .replace('**Page style** selects document defaults.', '**Page style** selects document or section accents.')
  .replace('A page-specific line such as', 'On an ordinary page after the first, a line such as')
  .replace('Remove that line to inherit the document defaults.', 'Remove that line to inherit the section accent. A header or cover starts a new section; its accent continues until the next header.')
- .replace('Page 2 demonstrates boxes, striped fields, and tables. Page 3 covers layout and saving. Pages 4–6 compare table styles, demonstrate blocks, and walk through templates and editor tabs.', 'Pages 2–3 cover formatting and saving. Pages 4–6 demonstrate table styles, blocks, templates, and editor tabs.')
+ .replace('Page 2 demonstrates boxes, striped fields, and tables. Page 3 covers layout and saving. Pages 4–6 compare table styles, demonstrate blocks, and walk through templates and editor tabs.', 'Pages 2–3 cover formatting and saving. Pages 4–6 demonstrate tables, blocks, and templates. Pages 7–8 showcase every color.')
  .replace('The guide uses explicit page colours. Change the `{{page ...}}` line at the top of a page to change that page\'s appearance.', 'Edit a page directive to try another accent.')
  .replace('This is how you can reproduce the arrangement on Tigers page 18.', '')
  .replace('Download a copy before clearing browser data or changing browsers.', '')
  .replace('A header or cover starts a new section; its accent continues until the next header.', 'Header accents continue to the next header.')
  .replace(/\*\*Black is the default\*\*[^\n]+/, '**Black is the default.** Set document defaults in **Properties**, or choose **Page style → Current section**. Header accents carry through following pages. A later ordinary page can override its own color. Boxes, subtitles, tables, fields, and tracks inherit the page accent; only specify a color for an override.')
- + '\n\\page\n' + GUIDE_EXTRAS;
+ + '\n\\page\n' + GUIDE_EXTRAS + '\n\\page\n' + PALETTE_GUIDE;

@@ -34,7 +34,7 @@ Templates begin with `header=true accent=red`. Change the header accent or use *
 
 Inserted tables, fields, boxes, notes, quotations, and banners include `accent=black` to make their color editable. Change it to another palette name, or remove it to inherit the surrounding page or block accent. This also applies to these blocks inside complete templates.
 
-Available accents: `willow`, `olive`, `malachite`, `blue`, `mustard`, `raspberry`, `red`, `ember`, `lagoon`, `indigo`, `plum`, `umber`, `burgundy`, `antique-gold`, `midnight`, and `black`. Each includes a matching pale row tint.
+Available accents: `willow`, `olive`, `malachite`, `blue`, `mustard`, `raspberry`, `red`, `ember`, `lagoon`, `indigo`, `plum`, `umber`, `burgundy`, `antique-gold`, `midnight`, `dark-green`, and `black`. Each includes a matching pale row tint.
 
 ```text
 {{page header=true accent=willow}}

@@ -16,6 +16,7 @@ export const PALETTE = {
   burgundy: {name:'Burgundy', hex:'#6E263D', tint:'#E2D4D8'},
   'antique-gold': {name:'Antique Gold', hex:'#A17932', tint:'#ECE4D6'},
   midnight: {name:'Midnight', hex:'#253E60', tint:'#D3D8DF'},
+  'dark-green': {name:'Dark Green', hex:'#24513B', tint:'#D3DCD8'},
   black: {name:'Ink', hex:'#2d2b2c', tint:'#e5e4e4'}
 };
 export const emptyDocument = (text = '# A new voyage\n\nBegin somewhere in the rustling waves.\n') => ({
