@@ -176,6 +176,12 @@ Localhost and GitHub Pages have separate browser storage: use Markdown export/im
 
 ### Google configuration
 
+For Google Auth Platform branding, use these public application links:
+
+- Home page: https://berlinia.github.io/theshrubbery/
+- Privacy policy: https://berlinia.github.io/theshrubbery/privacy.html
+- Terms of service: https://berlinia.github.io/theshrubbery/terms.html
+
 Use a **new, dedicated Wildsea OAuth web client**; Deltagreenery’s identity is not reused. `dist/config.js` ships with an empty public client ID. Editing, downloading, and printing work without Google setup.
 
 1. Create a Google Cloud project and enable the Google Drive API.
