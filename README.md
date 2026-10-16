@@ -32,6 +32,8 @@ Open **?** for syntax help, or **My documents → Open guide** for an editable w
 
 Templates begin with `header=true accent=red`. Change the header accent or use **Page style → Current section** to recolor the section through the next header. Covers also start sections; ordinary Markdown headings do not. Without a specified accent, the document default is black.
 
+Available accents: `willow`, `olive`, `malachite`, `blue`, `mustard`, `raspberry`, `red`, `ember`, `lagoon`, `indigo`, `plum`, `umber`, `burgundy`, `antique-gold`, `midnight`, and `black`. Each includes a matching pale row tint.
+
 ```text
 {{page header=true accent=willow}}
 # A new reach

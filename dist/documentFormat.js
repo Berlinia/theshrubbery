@@ -8,6 +8,14 @@ export const PALETTE = {
   mustard: {name:'Mustard', hex:'#ECAC42', tint:'#fbefd9'},
   raspberry: {name:'Raspberry', hex:'#A95C8D', tint:'#eedee8'},
   red: {name:'Strong Red', hex:'#BB434E', tint:'#f1d9dc'},
+  ember: {name:'Ember', hex:'#C66A32', tint:'#F4E1D6'},
+  lagoon: {name:'Lagoon', hex:'#237E83', tint:'#D3E5E6'},
+  indigo: {name:'Indigo', hex:'#514B89', tint:'#DCDBE7'},
+  plum: {name:'Plum', hex:'#75466D', tint:'#E3DAE2'},
+  umber: {name:'Umber', hex:'#806044', tint:'#E6DFDA'},
+  burgundy: {name:'Burgundy', hex:'#6E263D', tint:'#E2D4D8'},
+  'antique-gold': {name:'Antique Gold', hex:'#A17932', tint:'#ECE4D6'},
+  midnight: {name:'Midnight', hex:'#253E60', tint:'#D3D8DF'},
   black: {name:'Ink', hex:'#2d2b2c', tint:'#e5e4e4'}
 };
 export const emptyDocument = (text = '# A new voyage\n\nBegin somewhere in the rustling waves.\n') => ({

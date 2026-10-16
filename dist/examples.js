@@ -7,6 +7,7 @@ export { SNIPPETS } from './snippets.js';
 
 export const PREVIOUS_GUIDE_HASH = (()=>{let hash=2166136261;for(let i=0;i<BASE_GUIDE.length;i++)hash=Math.imul(hash^BASE_GUIDE.charCodeAt(i),16777619);return hash>>>0;})();
 export const EXAMPLE = BASE_GUIDE
+ .replace('**Other accents:** blue, mustard, raspberry, red, black.', '**Other accents:** blue, mustard, raspberry, red, black, ember, lagoon, indigo, plum, umber, burgundy, antique-gold, midnight.')
  .replace('**Page templates** adds a reach, character, hazard, scenario or quickplay page.', '**Templates** adds complete multi-page reaches, characters, hazards, scenarios or quickplays.')
  .replace('Page 3 explains columns, backgrounds, saving, and printing.', 'Page 3 covers layout and saving. Pages 4–6 compare table styles, demonstrate blocks, and walk through templates and editor tabs.')
  .replace('**Page style** selects document defaults.', '**Page style** selects document or section accents.')
