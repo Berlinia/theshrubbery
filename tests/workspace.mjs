@@ -1,0 +1,48 @@
+import assert from 'node:assert/strict';
+const {chromium}=await import(process.env.PLAYWRIGHT_MODULE||'playwright');
+const browser=await chromium.launch({headless:true,channel:'msedge'});
+const page=await browser.newPage({viewport:{width:1600,height:1000}});
+const errors=[];page.on('pageerror',e=>errors.push(e.message));
+const setCode=(panel,value)=>page.locator(`#panel-${panel} .CodeMirror`).evaluate((el,value)=>el.CodeMirror.setValue(value),value);
+try{
+ await page.goto('http://localhost:4173');await page.waitForSelector('.sheet');
+ await setCode('text','# A styled page\n\nText to keep.');
+ await page.locator('#tab-style').click();
+ await setCode('style','.sheet h1 { color: rgb(10, 20, 30); font-size: 48px; }\nbody { background: red !important; }');
+ await page.waitForTimeout(250);
+ assert.equal(await page.locator('.sheet h1').evaluate(el=>getComputedStyle(el).color),'rgb(10, 20, 30)');
+ assert.notEqual(await page.locator('body').evaluate(el=>getComputedStyle(el).backgroundColor),'rgb(255, 0, 0)');
+ await page.screenshot({path:'tmp/pdfs/style-editor.png'});
+ await page.locator('#tab-snippets').click();
+ await setCode('snippets','\\snippet Useful note\n{{box\n### Reusable heading\nReusable text.\n}}');
+ await page.locator('#custom-snippet-list button').click();
+ assert.equal(await page.locator('#tab-text').getAttribute('aria-selected'),'true');
+ await page.waitForTimeout(250);assert.match(await page.locator('.sheet').textContent(),/Reusable text/);
+ await page.locator('#tab-properties').click();
+ await page.locator('#property-title').fill('Properties title');
+ await page.locator('#property-author').fill('Test author');
+ await page.locator('#property-description').fill('A reference document.');
+ await page.locator('#property-tags').fill('Reach, test');
+ await page.locator('#property-language').fill('English');
+ assert.match(await page.locator('.license-footer').textContent(),/Properties title.*Test author/);
+ await page.screenshot({path:'tmp/pdfs/properties-editor.png'});
+ // Browser draft and downloadable/Drive Markdown retain all editor fields.
+ const saved=await page.evaluate(async()=>{const state=JSON.parse(localStorage.getItem('wildsea-shrubbery.drafts.v1'));const doc=state.documents.find(d=>d.id===state.active);const {serializeDocument,parseDocument}=await import('/documentFormat.js');return {doc,roundtrip:parseDocument(serializeDocument(doc))};});
+ for(const field of ['style','snippets','description','tags','language'])assert.equal(saved.roundtrip[field],saved.doc[field]);
+ await page.reload();await page.waitForSelector('.sheet');
+ assert.equal(await page.locator('.sheet h1').first().evaluate(el=>getComputedStyle(el).color),'rgb(10, 20, 30)');
+ await page.locator('#tab-snippets').click();assert.equal(await page.locator('#custom-snippet-list button').textContent(),'Useful note');
+ await page.locator('#tab-properties').click();assert.equal(await page.locator('#property-description').inputValue(),'A reference document.');
+ await page.emulateMedia({media:'print'});
+ assert.equal(await page.locator('.sheet h1').first().evaluate(el=>getComputedStyle(el).fontSize),'48px');
+ await page.emulateMedia({media:'screen'});
+ await page.setViewportSize({width:700,height:900});
+ await page.locator('#tab-style').click();
+ assert.ok(await page.locator('.editor-tabs').evaluate(el=>el.getBoundingClientRect().right<=innerWidth));
+ await page.locator('#library-button').click();await page.locator('#new-button').click();
+ assert.equal(await page.locator('#panel-style .CodeMirror').evaluate(el=>el.CodeMirror.getValue()),'');
+ assert.notEqual(await page.locator('.sheet h1').first().evaluate(el=>getComputedStyle(el).color),'rgb(10, 20, 30)');
+ await page.locator('#tab-snippets').click();assert.equal(await page.locator('#custom-snippet-list button').count(),0);
+ assert.deepEqual(errors,[]);
+ console.log('PASS: editor tabs, scoped CSS, snippets insertion, properties, persistence, metadata roundtrip, print styles, mobile tabs.');
+}finally{await browser.close();}
