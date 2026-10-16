@@ -1,6 +1,6 @@
 // Section order and layouts follow the five supplied InDesign template PDFs.
 // These helpers emit ordinary, editable Shrubbery Markdown.
-const block=(kind,text)=>`{{${kind}\n${text}\n}}`;
+const block=(kind,text)=>`{{${kind}${/^(box|note|fields|table|flavor|banner)(,|$)/.test(kind)?',accent=black':''}\n${text}\n}}`;
 const cols=(...parts)=>block(`columns,${parts.length===3?'three':'two'}`,parts.join('\n\n\\column\n\n'));
 const split=(kind,...parts)=>block(`columns,${kind}`,parts.join('\n\n\\column\n\n'));
 const bullets=(n,prompt)=>Array.from({length:n},(_,i)=>`- ${prompt} ${i+1}: add a specific detail.`).join('\n');

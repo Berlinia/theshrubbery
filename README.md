@@ -32,6 +32,8 @@ Open **?** for syntax help, or **My documents → Open guide** for an editable w
 
 Templates begin with `header=true accent=red`. Change the header accent or use **Page style → Current section** to recolor the section through the next header. Covers also start sections; ordinary Markdown headings do not. Without a specified accent, the document default is black.
 
+Inserted tables, fields, boxes, notes, quotations, and banners include `accent=black` to make their color editable. Change it to another palette name, or remove it to inherit the surrounding page or block accent. This also applies to these blocks inside complete templates.
+
 Available accents: `willow`, `olive`, `malachite`, `blue`, `mustard`, `raspberry`, `red`, `ember`, `lagoon`, `indigo`, `plum`, `umber`, `burgundy`, `antique-gold`, `midnight`, and `black`. Each includes a matching pale row tint.
 
 ```text
