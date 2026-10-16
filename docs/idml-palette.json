@@ -1,0 +1,5336 @@
+{
+  "InDesign/Character Element TEMPLATE/Character Element TEMPLATE.idml": [
+    {
+      "name": "Black",
+      "space": "CMYK",
+      "values": [
+        0.0,
+        0.0,
+        0.0,
+        100.0
+      ],
+      "references": 21
+    },
+    {
+      "name": "C-10 Cool Gray No.10 copy",
+      "space": "CMYK",
+      "values": [
+        1.0,
+        0.0,
+        0.0,
+        95.0
+      ],
+      "references": 24
+    },
+    {
+      "name": "C-10 Cool Gray No.10 copy 2",
+      "space": "CMYK",
+      "values": [
+        1.0,
+        0.0,
+        0.0,
+        95.0
+      ],
+      "references": 6
+    },
+    {
+      "name": "C-10 Cool Gray No.10 copy 3",
+      "space": "CMYK",
+      "values": [
+        1.0,
+        0.0,
+        0.0,
+        95.0
+      ],
+      "references": 5
+    },
+    {
+      "name": "C-6 Cool Gray No.6",
+      "space": "RGB",
+      "values": [
+        109.00389209389687,
+        120.00000044703484,
+        129.00000751018524
+      ],
+      "references": 3,
+      "hex": "#6D7881"
+    },
+    {
+      "name": "C=0 M=0 Y=100 K=0",
+      "space": "CMYK",
+      "values": [
+        0.0,
+        0.0,
+        100.0,
+        0.0
+      ],
+      "references": 1
+    },
+    {
+      "name": "C=0 M=100 Y=0 K=0",
+      "space": "CMYK",
+      "values": [
+        0.0,
+        100.0,
+        0.0,
+        0.0
+      ],
+      "references": 1
+    },
+    {
+      "name": "C=100 M=0 Y=0 K=0",
+      "space": "CMYK",
+      "values": [
+        100.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "references": 1
+    },
+    {
+      "name": "C=100 M=90 Y=10 K=0",
+      "space": "CMYK",
+      "values": [
+        100.0,
+        90.0,
+        10.0,
+        0.0
+      ],
+      "references": 1
+    },
+    {
+      "name": "C=15 M=100 Y=100 K=0",
+      "space": "CMYK",
+      "values": [
+        15.0,
+        100.0,
+        100.0,
+        0.0
+      ],
+      "references": 7
+    },
+    {
+      "name": "C=75 M=5 Y=100 K=0",
+      "space": "CMYK",
+      "values": [
+        75.0,
+        5.0,
+        100.0,
+        0.0
+      ],
+      "references": 2
+    },
+    {
+      "name": "Cyan",
+      "space": "CMYK",
+      "values": [
+        100.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "references": 0
+    },
+    {
+      "name": "G16 Malachite",
+      "space": "RGB",
+      "values": [
+        20.000000707805157,
+        145.99611550569534,
+        101.00389257073402
+      ],
+      "references": 1,
+      "hex": "#149265"
+    },
+    {
+      "name": "G24 Willow",
+      "space": "RGB",
+      "values": [
+        149.00000631809235,
+        173.00000488758087,
+        114.0000008046627
+      ],
+      "references": 24,
+      "hex": "#95AD72"
+    },
+    {
+      "name": "Magenta",
+      "space": "CMYK",
+      "values": [
+        0.0,
+        100.0,
+        0.0,
+        0.0
+      ],
+      "references": 0
+    },
+    {
+      "name": "Paper",
+      "space": "CMYK",
+      "values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "references": 9
+    },
+    {
+      "name": "Registration",
+      "space": "CMYK",
+      "values": [
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ],
+      "references": 1
+    },
+    {
+      "name": "Yellow",
+      "space": "CMYK",
+      "values": [
+        0.0,
+        0.0,
+        100.0,
+        0.0
+      ],
+      "references": 0
+    },
+    {
+      "name": "$ID/",
+      "space": "CMYK",
+      "values": [
+        0.0,
+        0.0,
+        0.0,
+        100.0
+      ],
+      "references": 0
+    },
+    {
+      "name": "$ID/",
+      "space": "CMYK",
+      "values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "references": 0
+    }
+  ],
+  "InDesign/Hazard TEMPLATE/Hazard TEMPLATE.idml": [
+    {
+      "name": "B37 Antwerp Blue copy",
+      "space": "RGB",
+      "values": [
+        23.00389152020216,
+        93.00389304757118,
+        126.00000008940697
+      ],
+      "references": 2,
+      "hex": "#175D7E"
+    },
+    {
+      "name": "Black",
+      "space": "CMYK",
+      "values": [
+        0.0,
+        0.0,
+        0.0,
+        100.0
+      ],
+      "references": 23
+    },
+    {
+      "name": "C-10 Cool Gray No.10 copy",
+      "space": "CMYK",
+      "values": [
+        1.0,
+        0.0,
+        0.0,
+        95.0
+      ],
+      "references": 4
+    },
+    {
+      "name": "C-10 Cool Gray No.10 copy 2",
+      "space": "CMYK",
+      "values": [
+        1.0,
+        0.0,
+        0.0,
+        95.0
+      ],
+      "references": 7
+    },
+    {
+      "name": "C-10 Cool Gray No.10 copy 3",
+      "space": "CMYK",
+      "values": [
+        1.0,
+        0.0,
+        0.0,
+        95.0
+      ],
+      "references": 6
+    },
+    {
+      "name": "C-6 Cool Gray No.6",
+      "space": "RGB",
+      "values": [
+        109.00389209389687,
+        120.00000044703484,
+        129.00000751018524
+      ],
+      "references": 1,
+      "hex": "#6D7881"
+    },
+    {
+      "name": "C=0 M=0 Y=100 K=0",
+      "space": "CMYK",
+      "values": [
+        0.0,
+        0.0,
+        100.0,
+        0.0
+      ],
+      "references": 1
+    },
+    {
+      "name": "C=0 M=100 Y=0 K=0",
+      "space": "CMYK",
+      "values": [
+        0.0,
+        100.0,
+        0.0,
+        0.0
+      ],
+      "references": 1
+    },
+    {
+      "name": "C=100 M=0 Y=0 K=0",
+      "space": "CMYK",
+      "values": [
+        100.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "references": 1
+    },
+    {
+      "name": "C=100 M=90 Y=10 K=0",
+      "space": "CMYK",
+      "values": [
+        100.0,
+        90.0,
+        10.0,
+        0.0
+      ],
+      "references": 1
+    },
+    {
+      "name": "C=15 M=100 Y=100 K=0",
+      "space": "CMYK",
+      "values": [
+        15.0,
+        100.0,
+        100.0,
+        0.0
+      ],
+      "references": 3
+    },
+    {
+      "name": "C=75 M=5 Y=100 K=0",
+      "space": "CMYK",
+      "values": [
+        75.0,
+        5.0,
+        100.0,
+        0.0
+      ],
+      "references": 3
+    },
+    {
+      "name": "Cyan",
+      "space": "CMYK",
+      "values": [
+        100.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "references": 0
+    },
+    {
+      "name": "G16 Malachite",
+      "space": "RGB",
+      "values": [
+        20.000000707805157,
+        145.99611550569534,
+        101.00389257073402
+      ],
+      "references": 1,
+      "hex": "#149265"
+    },
+    {
+      "name": "G24 Willow",
+      "space": "RGB",
+      "values": [
+        149.00000631809235,
+        173.00000488758087,
+        114.0000008046627
+      ],
+      "references": 1,
+      "hex": "#95AD72"
+    },
+    {
+      "name": "G94 Grayish Olive",
+      "space": "RGB",
+      "values": [
+        131.00000739097595,
+        147.99611538648605,
+        106.00000128149986
+      ],
+      "references": 1,
+      "hex": "#83946A"
+    },
+    {
+      "name": "G94 Grayish Olive copy",
+      "space": "RGB",
+      "values": [
+        131.00000739097595,
+        147.99611538648605,
+        106.00000128149986
+      ],
+      "references": 2,
+      "hex": "#83946A"
+    },
+    {
+      "name": "Magenta",
+      "space": "CMYK",
+      "values": [
+        0.0,
+        100.0,
+        0.0,
+        0.0
+      ],
+      "references": 0
+    },
+    {
+      "name": "Paper",
+      "space": "CMYK",
+      "values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "references": 17
+    },
+    {
+      "name": "Registration",
+      "space": "CMYK",
+      "values": [
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ],
+      "references": 1
+    },
+    {
+      "name": "YG67 Moss copy",
+      "space": "RGB",
+      "values": [
+        102.00000151991844,
+        125.00389114022255,
+        78.00000295042992
+      ],
+      "references": 1,
+      "hex": "#667D4E"
+    },
+    {
+      "name": "Yellow",
+      "space": "CMYK",
+      "values": [
+        0.0,
+        0.0,
+        100.0,
+        0.0
+      ],
+      "references": 0
+    },
+    {
+      "name": "$ID/",
+      "space": "CMYK",
+      "values": [
+        0.0,
+        0.0,
+        0.0,
+        100.0
+      ],
+      "references": 0
+    },
+    {
+      "name": "$ID/",
+      "space": "CMYK",
+      "values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "references": 0
+    }
+  ],
+  "InDesign/Quickplay TEMPLATE/Quickplay TEMPLATE.idml": [
+    {
+      "name": "B37 Antwerp Blue copy",
+      "space": "RGB",
+      "values": [
+        23.00389152020216,
+        93.00389304757118,
+        126.00000008940697
+      ],
+      "references": 1,
+      "hex": "#175D7E"
+    },
+    {
+      "name": "Black",
+      "space": "CMYK",
+      "values": [
+        0.0,
+        0.0,
+        0.0,
+        100.0
+      ],
+      "references": 21
+    },
+    {
+      "name": "C-10 Cool Gray No.10 copy",
+      "space": "CMYK",
+      "values": [
+        1.0,
+        0.0,
+        0.0,
+        95.0
+      ],
+      "references": 2
+    },
+    {
+      "name": "C-10 Cool Gray No.10 copy 2",
+      "space": "CMYK",
+      "values": [
+        1.0,
+        0.0,
+        0.0,
+        95.0
+      ],
+      "references": 5
+    },
+    {
+      "name": "C-10 Cool Gray No.10 copy 3",
+      "space": "CMYK",
+      "values": [
+        1.0,
+        0.0,
+        0.0,
+        95.0
+      ],
+      "references": 3
+    },
+    {
+      "name": "C=100 M=0 Y=0 K=0",
+      "space": "CMYK",
+      "values": [
+        100.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "references": 1
+    },
+    {
+      "name": "C=100 M=90 Y=10 K=0",
+      "space": "CMYK",
+      "values": [
+        100.0,
+        90.0,
+        10.0,
+        0.0
+      ],
+      "references": 1
+    },
+    {
+      "name": "C=15 M=100 Y=100 K=0",
+      "space": "CMYK",
+      "values": [
+        15.0,
+        100.0,
+        100.0,
+        0.0
+      ],
+      "references": 6
+    },
+    {
+      "name": "C=75 M=5 Y=100 K=0",
+      "space": "CMYK",
+      "values": [
+        75.0,
+        5.0,
+        100.0,
+        0.0
+      ],
+      "references": 2
+    },
+    {
+      "name": "C=9 M=45 Y=86 K=15",
+      "space": "CMYK",
+      "values": [
+        9.0,
+        45.0,
+        86.0,
+        15.0
+      ],
+      "references": 1
+    },
+    {
+      "name": "Cyan",
+      "space": "CMYK",
+      "values": [
+        100.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "references": 0
+    },
+    {
+      "name": "G16 Malachite",
+      "space": "RGB",
+      "values": [
+        20.000000707805157,
+        145.99611550569534,
+        101.00389257073402
+      ],
+      "references": 1,
+      "hex": "#149265"
+    },
+    {
+      "name": "G94 Grayish Olive",
+      "space": "RGB",
+      "values": [
+        131.00000739097595,
+        147.99611538648605,
+        106.00000128149986
+      ],
+      "references": 8,
+      "hex": "#83946A"
+    },
+    {
+      "name": "HEADER MAGENTAGREENISHTHING",
+      "space": "CMYK",
+      "values": [
+        57.99999999999999,
+        100.0,
+        12.0,
+        26.0
+      ],
+      "references": 1
+    },
+    {
+      "name": "Magenta",
+      "space": "CMYK",
+      "values": [
+        0.0,
+        100.0,
+        0.0,
+        0.0
+      ],
+      "references": 0
+    },
+    {
+      "name": "Paper",
+      "space": "CMYK",
+      "values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "references": 34
+    },
+    {
+      "name": "R46 Strong Red copy",
+      "space": "RGB",
+      "values": [
+        187.00000405311584,
+        67.00389459729195,
+        78.00000295042992
+      ],
+      "references": 1,
+      "hex": "#BB434E"
+    },
+    {
+      "name": "Registration",
+      "space": "CMYK",
+      "values": [
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ],
+      "references": 1
+    },
+    {
+      "name": "Y26 Mustard copy",
+      "space": "RGB",
+      "values": [
+        235.9961101412773,
+        171.99611395597458,
+        66.00000366568565
+      ],
+      "references": 4,
+      "hex": "#ECAC42"
+    },
+    {
+      "name": "YG67 Moss copy",
+      "space": "RGB",
+      "values": [
+        102.00000151991844,
+        125.00389114022255,
+        78.00000295042992
+      ],
+      "references": 1,
+      "hex": "#667D4E"
+    },
+    {
+      "name": "Yellow",
+      "space": "CMYK",
+      "values": [
+        0.0,
+        0.0,
+        100.0,
+        0.0
+      ],
+      "references": 0
+    },
+    {
+      "name": "$ID/",
+      "space": "CMYK",
+      "values": [
+        0.0,
+        0.0,
+        0.0,
+        100.0
+      ],
+      "references": 0
+    },
+    {
+      "name": "$ID/",
+      "space": "CMYK",
+      "values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "references": 0
+    }
+  ],
+  "InDesign/Reach TEMPLATE/Reach TEMPLATE.idml": [
+    {
+      "name": "0 Colorless Blender",
+      "space": "RGB",
+      "values": [
+        255.0,
+        255.0,
+        255.0
+      ],
+      "references": 2,
+      "hex": "#FFFFFF"
+    },
+    {
+      "name": "B37 Antwerp Blue copy",
+      "space": "RGB",
+      "values": [
+        23.00389152020216,
+        93.00389304757118,
+        126.00000008940697
+      ],
+      "references": 2,
+      "hex": "#175D7E"
+    },
+    {
+      "name": "Black",
+      "space": "CMYK",
+      "values": [
+        0.0,
+        0.0,
+        0.0,
+        100.0
+      ],
+      "references": 22
+    },
+    {
+      "name": "C-10 Cool Gray No.10 copy",
+      "space": "CMYK",
+      "values": [
+        1.0,
+        0.0,
+        0.0,
+        95.0
+      ],
+      "references": 14
+    },
+    {
+      "name": "C-10 Cool Gray No.10 copy 2",
+      "space": "CMYK",
+      "values": [
+        1.0,
+        0.0,
+        0.0,
+        95.0
+      ],
+      "references": 11
+    },
+    {
+      "name": "C-10 Cool Gray No.10 copy 3",
+      "space": "CMYK",
+      "values": [
+        1.0,
+        0.0,
+        0.0,
+        95.0
+      ],
+      "references": 10
+    },
+    {
+      "name": "C-6 Cool Gray No.6",
+      "space": "RGB",
+      "values": [
+        109.00389209389687,
+        120.00000044703484,
+        129.00000751018524
+      ],
+      "references": 1,
+      "hex": "#6D7881"
+    },
+    {
+      "name": "C=0 M=0 Y=100 K=0",
+      "space": "CMYK",
+      "values": [
+        0.0,
+        0.0,
+        100.0,
+        0.0
+      ],
+      "references": 1
+    },
+    {
+      "name": "C=0 M=100 Y=0 K=0",
+      "space": "CMYK",
+      "values": [
+        0.0,
+        100.0,
+        0.0,
+        0.0
+      ],
+      "references": 1
+    },
+    {
+      "name": "C=100 M=0 Y=0 K=0",
+      "space": "CMYK",
+      "values": [
+        100.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "references": 1
+    },
+    {
+      "name": "C=100 M=90 Y=10 K=0",
+      "space": "CMYK",
+      "values": [
+        100.0,
+        90.0,
+        10.0,
+        0.0
+      ],
+      "references": 1
+    },
+    {
+      "name": "C=15 M=100 Y=100 K=0",
+      "space": "CMYK",
+      "values": [
+        15.0,
+        100.0,
+        100.0,
+        0.0
+      ],
+      "references": 5
+    },
+    {
+      "name": "C=75 M=5 Y=100 K=0",
+      "space": "CMYK",
+      "values": [
+        75.0,
+        5.0,
+        100.0,
+        0.0
+      ],
+      "references": 2
+    },
+    {
+      "name": "Cyan",
+      "space": "CMYK",
+      "values": [
+        100.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "references": 0
+    },
+    {
+      "name": "G16 Malachite",
+      "space": "RGB",
+      "values": [
+        20.000000707805157,
+        145.99611550569534,
+        101.00389257073402
+      ],
+      "references": 1,
+      "hex": "#149265"
+    },
+    {
+      "name": "G24 Willow",
+      "space": "RGB",
+      "values": [
+        149.00000631809235,
+        173.00000488758087,
+        114.0000008046627
+      ],
+      "references": 3,
+      "hex": "#95AD72"
+    },
+    {
+      "name": "G94 Grayish Olive",
+      "space": "RGB",
+      "values": [
+        131.00000739097595,
+        147.99611538648605,
+        106.00000128149986
+      ],
+      "references": 1,
+      "hex": "#83946A"
+    },
+    {
+      "name": "G94 Grayish Olive copy",
+      "space": "RGB",
+      "values": [
+        131.00000739097595,
+        147.99611538648605,
+        106.00000128149986
+      ],
+      "references": 33,
+      "hex": "#83946A"
+    },
+    {
+      "name": "Magenta",
+      "space": "CMYK",
+      "values": [
+        0.0,
+        100.0,
+        0.0,
+        0.0
+      ],
+      "references": 0
+    },
+    {
+      "name": "N-4 Neutral Gray No.4",
+      "space": "RGB",
+      "values": [
+        147.00000643730164,
+        153.00000607967377,
+        155.00000596046448
+      ],
+      "references": 1,
+      "hex": "#93999B"
+    },
+    {
+      "name": "Paper",
+      "space": "CMYK",
+      "values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "references": 14
+    },
+    {
+      "name": "Registration",
+      "space": "CMYK",
+      "values": [
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ],
+      "references": 1
+    },
+    {
+      "name": "Y26 Mustard copy",
+      "space": "RGB",
+      "values": [
+        235.9961101412773,
+        171.99611395597458,
+        66.00000366568565
+      ],
+      "references": 10,
+      "hex": "#ECAC42"
+    },
+    {
+      "name": "YG67 Moss copy",
+      "space": "RGB",
+      "values": [
+        102.00000151991844,
+        125.00389114022255,
+        78.00000295042992
+      ],
+      "references": 1,
+      "hex": "#667D4E"
+    },
+    {
+      "name": "Yellow",
+      "space": "CMYK",
+      "values": [
+        0.0,
+        0.0,
+        100.0,
+        0.0
+      ],
+      "references": 0
+    },
+    {
+      "name": "$ID/",
+      "space": "CMYK",
+      "values": [
+        0.0,
+        0.0,
+        0.0,
+        100.0
+      ],
+      "references": 0
+    },
+    {
+      "name": "$ID/",
+      "space": "CMYK",
+      "values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "references": 0
+    }
+  ],
+  "InDesign/Scenario TEMPLATE/Scenario TEMPLATE.idml": [
+    {
+      "name": "0 Colorless Blender",
+      "space": "RGB",
+      "values": [
+        255.0,
+        255.0,
+        255.0
+      ],
+      "references": 5,
+      "hex": "#FFFFFF"
+    },
+    {
+      "name": "100 Black",
+      "space": "RGB",
+      "values": [
+        73.00389423966408,
+        67.00389459729195,
+        68.00000354647636
+      ],
+      "references": 2,
+      "hex": "#494344"
+    },
+    {
+      "name": "110 Special Black",
+      "space": "RGB",
+      "values": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "references": 1,
+      "hex": "#000000"
+    },
+    {
+      "name": "B00 Frost Blue",
+      "space": "RGB",
+      "values": [
+        183.99611324071884,
+        241.00000083446503,
+        241.00000083446503
+      ],
+      "references": 1,
+      "hex": "#B8F1F1"
+    },
+    {
+      "name": "B000 Pale Porcelain Blue",
+      "space": "RGB",
+      "values": [
+        211.9961115717888,
+        245.99610954523087,
+        241.99610978364944
+      ],
+      "references": 1,
+      "hex": "#D4F6F2"
+    },
+    {
+      "name": "B0000 Pale Celestine",
+      "space": "RGB",
+      "values": [
+        231.00000143051147,
+        249.00000035762787,
+        241.00000083446503
+      ],
+      "references": 1,
+      "hex": "#E7F9F1"
+    },
+    {
+      "name": "B01 Mint Blue",
+      "space": "RGB",
+      "values": [
+        141.0000067949295,
+        231.9961103796959,
+        237.0000010728836
+      ],
+      "references": 1,
+      "hex": "#8DE8ED"
+    },
+    {
+      "name": "B02 Robin's Egg Blue",
+      "space": "RGB",
+      "values": [
+        72.00000330805779,
+        209.00000274181366,
+        235.9961101412773
+      ],
+      "references": 1,
+      "hex": "#48D1EC"
+    },
+    {
+      "name": "B04 Tahitian Blue",
+      "space": "RGB",
+      "values": [
+        0.0,
+        183.00000429153442,
+        217.0000022649765
+      ],
+      "references": 1,
+      "hex": "#00B7D9"
+    },
+    {
+      "name": "B05 Process Blue",
+      "space": "RGB",
+      "values": [
+        0.0,
+        159.99611467123032,
+        207.99611181020737
+      ],
+      "references": 1,
+      "hex": "#00A0D0"
+    },
+    {
+      "name": "B06 Peacock Blue",
+      "space": "RGB",
+      "values": [
+        0.0,
+        133.99611622095108,
+        181.99611335992813
+      ],
+      "references": 1,
+      "hex": "#0086B6"
+    },
+    {
+      "name": "B12 Ice Blue",
+      "space": "RGB",
+      "values": [
+        124.00000020861626,
+        215.9961113333702,
+        239.00000095367432
+      ],
+      "references": 1,
+      "hex": "#7CD8EF"
+    },
+    {
+      "name": "B14 Light Blue",
+      "space": "RGB",
+      "values": [
+        0.0,
+        159.99611467123032,
+        199.99611228704453
+      ],
+      "references": 1,
+      "hex": "#00A0C8"
+    },
+    {
+      "name": "B16 Cyanine Blue",
+      "space": "RGB",
+      "values": [
+        0.0,
+        151.00000619888306,
+        201.00000321865082
+      ],
+      "references": 1,
+      "hex": "#0097C9"
+    },
+    {
+      "name": "B18 Lapis Lazuli",
+      "space": "RGB",
+      "values": [
+        45.00389210879803,
+        112.000000923872,
+        171.00000500679016
+      ],
+      "references": 1,
+      "hex": "#2D70AB"
+    },
+    {
+      "name": "B21 Baby Blue",
+      "space": "RGB",
+      "values": [
+        163.99611443281174,
+        217.99611121416092,
+        239.00000095367432
+      ],
+      "references": 1,
+      "hex": "#A4DAEF"
+    },
+    {
+      "name": "B23 Phthalo Blue",
+      "space": "RGB",
+      "values": [
+        106.00000128149986,
+        165.99611431360245,
+        215.0000023841858
+      ],
+      "references": 1,
+      "hex": "#6AA6D7"
+    },
+    {
+      "name": "B24 Sky",
+      "space": "RGB",
+      "values": [
+        51.00389175117016,
+        171.99611395597458,
+        227.00000166893005
+      ],
+      "references": 1,
+      "hex": "#33ACE3"
+    },
+    {
+      "name": "B26 Cobalt Blue",
+      "space": "RGB",
+      "values": [
+        56.000000461936,
+        126.00000008940697,
+        181.99611335992813
+      ],
+      "references": 1,
+      "hex": "#387EB6"
+    },
+    {
+      "name": "B28 Royal Blue",
+      "space": "RGB",
+      "values": [
+        24.000000469386578,
+        94.0000019967556,
+        189.00000393390656
+      ],
+      "references": 1,
+      "hex": "#185EBD"
+    },
+    {
+      "name": "B29 Ultramarine",
+      "space": "RGB",
+      "values": [
+        64.00000378489494,
+        90.00000223517418,
+        185.00000417232513
+      ],
+      "references": 1,
+      "hex": "#405AB9"
+    },
+    {
+      "name": "B32 Pale Blue",
+      "space": "RGB",
+      "values": [
+        133.00000727176666,
+        215.0000023841858,
+        245.00000059604645
+      ],
+      "references": 1,
+      "hex": "#85D7F5"
+    },
+    {
+      "name": "B34 Manganese Blue",
+      "space": "RGB",
+      "values": [
+        92.00000211596489,
+        153.99611502885818,
+        187.99611300230026
+      ],
+      "references": 1,
+      "hex": "#5C9ABC"
+    },
+    {
+      "name": "B34 Manganese Blue copy",
+      "space": "RGB",
+      "values": [
+        92.00000211596489,
+        153.99611502885818,
+        187.99611300230026
+      ],
+      "references": 1,
+      "hex": "#5C9ABC"
+    },
+    {
+      "name": "B37 Antwerp Blue",
+      "space": "RGB",
+      "values": [
+        23.00389152020216,
+        93.00389304757118,
+        126.00000008940697
+      ],
+      "references": 1,
+      "hex": "#175D7E"
+    },
+    {
+      "name": "B37 Antwerp Blue copy",
+      "space": "RGB",
+      "values": [
+        23.00389152020216,
+        93.00389304757118,
+        126.00000008940697
+      ],
+      "references": 14,
+      "hex": "#175D7E"
+    },
+    {
+      "name": "B37 Antwerp Dark",
+      "space": "RGB",
+      "values": [
+        2.0,
+        52.0,
+        91.0
+      ],
+      "references": 1,
+      "hex": "#02345B"
+    },
+    {
+      "name": "B39 Prussian Blue",
+      "space": "RGB",
+      "values": [
+        67.00389459729195,
+        79.00389388203621,
+        111.00389197468758
+      ],
+      "references": 1,
+      "hex": "#434F6F"
+    },
+    {
+      "name": "B41 Powder Blue",
+      "space": "RGB",
+      "values": [
+        183.00000429153442,
+        221.99611097574234,
+        235.9961101412773
+      ],
+      "references": 1,
+      "hex": "#B7DEEC"
+    },
+    {
+      "name": "B45 Smoky Blue",
+      "space": "RGB",
+      "values": [
+        91.00389316678047,
+        157.9961147904396,
+        195.0000035762787
+      ],
+      "references": 1,
+      "hex": "#5B9EC3"
+    },
+    {
+      "name": "B52 Soft Greenish Blue",
+      "space": "RGB",
+      "values": [
+        147.99611538648605,
+        205.00000298023224,
+        213.00000250339508
+      ],
+      "references": 1,
+      "hex": "#94CDD5"
+    },
+    {
+      "name": "B60 Pale Blue Gray",
+      "space": "RGB",
+      "values": [
+        225.99611073732376,
+        235.0000011920929,
+        237.99611002206802
+      ],
+      "references": 1,
+      "hex": "#E2EBEE"
+    },
+    {
+      "name": "B63 Light Hydrangea",
+      "space": "RGB",
+      "values": [
+        155.00000596046448,
+        193.00000369548798,
+        229.99611049890518
+      ],
+      "references": 1,
+      "hex": "#9BC1E6"
+    },
+    {
+      "name": "B66 Clematis",
+      "space": "RGB",
+      "values": [
+        67.00389459729195,
+        120.00000044703484,
+        195.0000035762787
+      ],
+      "references": 1,
+      "hex": "#4378C3"
+    },
+    {
+      "name": "B69 Stratospheric Blue",
+      "space": "RGB",
+      "values": [
+        66.00000366568565,
+        69.00389447808266,
+        163.00000548362732
+      ],
+      "references": 1,
+      "hex": "#4245A3"
+    },
+    {
+      "name": "B79 Iris",
+      "space": "RGB",
+      "values": [
+        80.00000283122063,
+        70.00000342726707,
+        149.00000631809235
+      ],
+      "references": 1,
+      "hex": "#504695"
+    },
+    {
+      "name": "B91 Pale Grayish Blue",
+      "space": "RGB",
+      "values": [
+        179.000004529953,
+        217.99611121416092,
+        227.99611061811447
+      ],
+      "references": 1,
+      "hex": "#B3DAE4"
+    },
+    {
+      "name": "B93 Light Crockery Blue",
+      "space": "RGB",
+      "values": [
+        139.0000069141388,
+        191.00000381469727,
+        211.00000262260437
+      ],
+      "references": 1,
+      "hex": "#8BBFD3"
+    },
+    {
+      "name": "B95 Light Grayish Cobalt",
+      "space": "RGB",
+      "values": [
+        100.00000163912773,
+        165.99611431360245,
+        193.9961126446724
+      ],
+      "references": 1,
+      "hex": "#64A6C2"
+    },
+    {
+      "name": "B97 Night Blue",
+      "space": "RGB",
+      "values": [
+        73.00389423966408,
+        118.00000056624413,
+        143.00000667572021
+      ],
+      "references": 1,
+      "hex": "#49768F"
+    },
+    {
+      "name": "B99 Agate",
+      "space": "RGB",
+      "values": [
+        68.00000354647636,
+        84.00000259280205,
+        101.00389257073402
+      ],
+      "references": 1,
+      "hex": "#445465"
+    },
+    {
+      "name": "BG000 Pale Aqua",
+      "space": "RGB",
+      "values": [
+        219.0000021457672,
+        247.00000047683716,
+        241.00000083446503
+      ],
+      "references": 1,
+      "hex": "#DBF7F1"
+    },
+    {
+      "name": "BG0000 Snow Green",
+      "space": "RGB",
+      "values": [
+        233.9961102604866,
+        249.00000035762787,
+        239.99610990285873
+      ],
+      "references": 1,
+      "hex": "#EAF9F0"
+    },
+    {
+      "name": "BG01 Aqua Blue",
+      "space": "RGB",
+      "values": [
+        133.00000727176666,
+        229.99611049890518,
+        233.9961102604866
+      ],
+      "references": 1,
+      "hex": "#85E6EA"
+    },
+    {
+      "name": "BG02 New Blue",
+      "space": "RGB",
+      "values": [
+        76.0000030696392,
+        217.0000022649765,
+        231.9961103796959
+      ],
+      "references": 1,
+      "hex": "#4CD9E8"
+    },
+    {
+      "name": "BG05 Holiday Blue",
+      "space": "RGB",
+      "values": [
+        0.0,
+        185.99611312150955,
+        203.00000309944153
+      ],
+      "references": 1,
+      "hex": "#00BACB"
+    },
+    {
+      "name": "BG07 Petroleum Blue",
+      "space": "RGB",
+      "values": [
+        0.0,
+        147.00000643730164,
+        159.0000057220459
+      ],
+      "references": 1,
+      "hex": "#00939F"
+    },
+    {
+      "name": "BG09 Blue Green",
+      "space": "RGB",
+      "values": [
+        0.0,
+        135.00000715255737,
+        141.99611574411392
+      ],
+      "references": 1,
+      "hex": "#00878E"
+    },
+    {
+      "name": "BG10 Cool Shadow",
+      "space": "RGB",
+      "values": [
+        215.0000023841858,
+        243.00000071525574,
+        227.00000166893005
+      ],
+      "references": 1,
+      "hex": "#D7F3E3"
+    },
+    {
+      "name": "BG11 Moon White",
+      "space": "RGB",
+      "values": [
+        193.9961126446724,
+        241.99610978364944,
+        221.99611097574234
+      ],
+      "references": 1,
+      "hex": "#C2F2DE"
+    },
+    {
+      "name": "BG13 Mint Green",
+      "space": "RGB",
+      "values": [
+        62.00000010430813,
+        209.00000274181366,
+        185.00000417232513
+      ],
+      "references": 1,
+      "hex": "#3ED1B9"
+    },
+    {
+      "name": "BG15 Aqua",
+      "space": "RGB",
+      "values": [
+        0.0,
+        191.00000381469727,
+        163.99611443281174
+      ],
+      "references": 1,
+      "hex": "#00BFA4"
+    },
+    {
+      "name": "BG18 Teal Blue",
+      "space": "RGB",
+      "values": [
+        64.00000378489494,
+        135.00000715255737,
+        131.99611634016037
+      ],
+      "references": 1,
+      "hex": "#408784"
+    },
+    {
+      "name": "BG23 Coral Sea",
+      "space": "RGB",
+      "values": [
+        123.00389125943184,
+        221.99611097574234,
+        193.00000369548798
+      ],
+      "references": 1,
+      "hex": "#7BDEC1"
+    },
+    {
+      "name": "BG32 Aqua Mint",
+      "space": "RGB",
+      "values": [
+        125.00389114022255,
+        225.99611073732376,
+        195.9961125254631
+      ],
+      "references": 1,
+      "hex": "#7DE2C4"
+    },
+    {
+      "name": "BG34 Horizon Green",
+      "space": "RGB",
+      "values": [
+        97.0038928091526,
+        217.99611121416092,
+        171.99611395597458
+      ],
+      "references": 1,
+      "hex": "#61DAAC"
+    },
+    {
+      "name": "BG45 Nile Blue",
+      "space": "RGB",
+      "values": [
+        61.00389115512371,
+        211.9961115717888,
+        207.00000286102295
+      ],
+      "references": 1,
+      "hex": "#3DD4CF"
+    },
+    {
+      "name": "BG49 Duck Blue",
+      "space": "RGB",
+      "values": [
+        0.0,
+        147.99611538648605,
+        137.00000703334808
+      ],
+      "references": 1,
+      "hex": "#009489"
+    },
+    {
+      "name": "BG53 Ice Mint",
+      "space": "RGB",
+      "values": [
+        126.00000008940697,
+        215.9961113333702,
+        215.9961113333702
+      ],
+      "references": 1,
+      "hex": "#7ED8D8"
+    },
+    {
+      "name": "BG57 Jasper",
+      "space": "RGB",
+      "values": [
+        44.000001177191734,
+        157.0000058412552,
+        153.00000607967377
+      ],
+      "references": 1,
+      "hex": "#2C9D99"
+    },
+    {
+      "name": "BG70 Ocean Mist",
+      "space": "RGB",
+      "values": [
+        239.00000095367432,
+        247.00000047683716,
+        239.00000095367432
+      ],
+      "references": 1,
+      "hex": "#EFF7EF"
+    },
+    {
+      "name": "BG72 Ice Ocean",
+      "space": "RGB",
+      "values": [
+        126.00000008940697,
+        173.9961138367653,
+        171.00000500679016
+      ],
+      "references": 1,
+      "hex": "#7EAEAB"
+    },
+    {
+      "name": "BG75 Abyss Green",
+      "space": "RGB",
+      "values": [
+        98.00000175833702,
+        135.00000715255737,
+        133.99611622095108
+      ],
+      "references": 1,
+      "hex": "#628786"
+    },
+    {
+      "name": "BG78 Bronze",
+      "space": "RGB",
+      "values": [
+        74.0000031888485,
+        107.00389221310616,
+        106.00000128149986
+      ],
+      "references": 1,
+      "hex": "#4A6B6A"
+    },
+    {
+      "name": "BG90 Gray Sky",
+      "space": "RGB",
+      "values": [
+        229.99611049890518,
+        229.00000154972076,
+        205.99611192941666
+      ],
+      "references": 1,
+      "hex": "#E6E5CE"
+    },
+    {
+      "name": "BG93 Green Gray",
+      "space": "RGB",
+      "values": [
+        157.9961147904396,
+        163.00000548362732,
+        135.9961161017418
+      ],
+      "references": 1,
+      "hex": "#9EA388"
+    },
+    {
+      "name": "BG96 Bush",
+      "space": "RGB",
+      "values": [
+        108.00000116229057,
+        114.0000008046627,
+        93.00389304757118
+      ],
+      "references": 1,
+      "hex": "#6C725D"
+    },
+    {
+      "name": "BG99 Flagstone Blue",
+      "space": "RGB",
+      "values": [
+        105.00389233231544,
+        109.00389209389687,
+        96.00000187754631
+      ],
+      "references": 1,
+      "hex": "#696D60"
+    },
+    {
+      "name": "BV00 Mauve Shadow",
+      "space": "RGB",
+      "values": [
+        197.99611240625381,
+        195.9961125254631,
+        221.00000202655792
+      ],
+      "references": 1,
+      "hex": "#C6C4DD"
+    },
+    {
+      "name": "BV000 Iridescent Mauve",
+      "space": "RGB",
+      "values": [
+        217.0000022649765,
+        215.9961113333702,
+        229.99611049890518
+      ],
+      "references": 1,
+      "hex": "#D9D8E6"
+    },
+    {
+      "name": "BV01 Viola",
+      "space": "RGB",
+      "values": [
+        173.9961138367653,
+        183.99611324071884,
+        219.0000021457672
+      ],
+      "references": 1,
+      "hex": "#AEB8DB"
+    },
+    {
+      "name": "BV02 Prune",
+      "space": "RGB",
+      "values": [
+        157.0000058412552,
+        183.00000429153442,
+        219.0000021457672
+      ],
+      "references": 1,
+      "hex": "#9DB7DB"
+    },
+    {
+      "name": "BV04 Blue Berry",
+      "space": "RGB",
+      "values": [
+        91.00389316678047,
+        119.00389149785042,
+        167.99611419439316
+      ],
+      "references": 1,
+      "hex": "#5B77A8"
+    },
+    {
+      "name": "BV08 Blue Violet",
+      "space": "RGB",
+      "values": [
+        79.00389388203621,
+        80.00000283122063,
+        111.00389197468758
+      ],
+      "references": 1,
+      "hex": "#4F506F"
+    },
+    {
+      "name": "BV11 Soft Violet",
+      "space": "RGB",
+      "values": [
+        163.99611443281174,
+        161.99611455202103,
+        195.0000035762787
+      ],
+      "references": 1,
+      "hex": "#A4A2C3"
+    },
+    {
+      "name": "BV13 Hydrangea Blue",
+      "space": "RGB",
+      "values": [
+        106.00000128149986,
+        135.9961161017418,
+        193.9961126446724
+      ],
+      "references": 1,
+      "hex": "#6A88C2"
+    },
+    {
+      "name": "BV17 Deep Reddish Blue",
+      "space": "RGB",
+      "values": [
+        93.00389304757118,
+        110.00000104308128,
+        147.99611538648605
+      ],
+      "references": 1,
+      "hex": "#5D6E94"
+    },
+    {
+      "name": "BV20 Dull Lavender",
+      "space": "RGB",
+      "values": [
+        197.99611240625381,
+        203.99611204862595,
+        215.9961113333702
+      ],
+      "references": 1,
+      "hex": "#C6CCD8"
+    },
+    {
+      "name": "BV23 Grayish Lavender",
+      "space": "RGB",
+      "values": [
+        139.0000069141388,
+        155.00000596046448,
+        171.99611395597458
+      ],
+      "references": 1,
+      "hex": "#8B9BAC"
+    },
+    {
+      "name": "BV25 Grayish Violet",
+      "space": "RGB",
+      "values": [
+        108.00000116229057,
+        122.00000032782555,
+        139.9961158633232
+      ],
+      "references": 1,
+      "hex": "#6C7A8C"
+    },
+    {
+      "name": "BV29 Slate",
+      "space": "RGB",
+      "values": [
+        72.00000330805779,
+        69.00389447808266,
+        81.00389376282692
+      ],
+      "references": 1,
+      "hex": "#484551"
+    },
+    {
+      "name": "BV31 Pale Lavender",
+      "space": "RGB",
+      "values": [
+        209.99611169099808,
+        215.0000023841858,
+        231.00000143051147
+      ],
+      "references": 1,
+      "hex": "#D2D7E7"
+    },
+    {
+      "name": "BV34 Bluebell",
+      "space": "RGB",
+      "values": [
+        119.00389149785042,
+        133.00000727176666,
+        169.99611407518387
+      ],
+      "references": 1,
+      "hex": "#7785AA"
+    },
+    {
+      "name": "Black",
+      "space": "CMYK",
+      "values": [
+        0.0,
+        0.0,
+        0.0,
+        100.0
+      ],
+      "references": 83
+    },
+    {
+      "name": "Black copy",
+      "space": "CMYK",
+      "values": [
+        0.0,
+        0.0,
+        0.0,
+        80.0
+      ],
+      "references": 1
+    },
+    {
+      "name": "C-0 Cool Gray No.0",
+      "space": "RGB",
+      "values": [
+        239.99610990285873,
+        243.00000071525574,
+        237.0000010728836
+      ],
+      "references": 1,
+      "hex": "#F0F3ED"
+    },
+    {
+      "name": "C-00 Cool Gray No.00",
+      "space": "RGB",
+      "values": [
+        245.99610954523087,
+        247.00000047683716,
+        239.00000095367432
+      ],
+      "references": 1,
+      "hex": "#F6F7EF"
+    },
+    {
+      "name": "C-1 Cool Gray No.1",
+      "space": "RGB",
+      "values": [
+        229.00000154972076,
+        233.9961102604866,
+        231.00000143051147
+      ],
+      "references": 1,
+      "hex": "#E5EAE7"
+    },
+    {
+      "name": "C-10 Cool Gray No.10",
+      "space": "RGB",
+      "values": [
+        76.0000030696392,
+        71.00389435887337,
+        73.00389423966408
+      ],
+      "references": 1,
+      "hex": "#4C4749"
+    },
+    {
+      "name": "C-10 Cool Gray No.10 copy",
+      "space": "CMYK",
+      "values": [
+        1.0,
+        0.0,
+        0.0,
+        95.0
+      ],
+      "references": 8
+    },
+    {
+      "name": "C-10 Cool Gray No.10 copy 2",
+      "space": "CMYK",
+      "values": [
+        1.0,
+        0.0,
+        0.0,
+        95.0
+      ],
+      "references": 24
+    },
+    {
+      "name": "C-10 Cool Gray No.10 copy 3",
+      "space": "CMYK",
+      "values": [
+        1.0,
+        0.0,
+        0.0,
+        95.0
+      ],
+      "references": 80
+    },
+    {
+      "name": "C-2 Cool Gray No.2",
+      "space": "RGB",
+      "values": [
+        211.00000262260437,
+        219.0000021457672,
+        219.99611109495163
+      ],
+      "references": 1,
+      "hex": "#D3DBDC"
+    },
+    {
+      "name": "C-3 Cool Gray No.3",
+      "space": "RGB",
+      "values": [
+        187.00000405311584,
+        197.99611240625381,
+        203.00000309944153
+      ],
+      "references": 1,
+      "hex": "#BBC6CB"
+    },
+    {
+      "name": "C-4 Cool Gray No.4",
+      "space": "RGB",
+      "values": [
+        161.99611455202103,
+        175.00000476837158,
+        183.99611324071884
+      ],
+      "references": 1,
+      "hex": "#A2AFB8"
+    },
+    {
+      "name": "C-5 Cool Gray No.5",
+      "space": "RGB",
+      "values": [
+        133.00000727176666,
+        145.99611550569534,
+        155.9961149096489
+      ],
+      "references": 1,
+      "hex": "#85929C"
+    },
+    {
+      "name": "C-6 Cool Gray No.6",
+      "space": "RGB",
+      "values": [
+        109.00389209389687,
+        120.00000044703484,
+        129.00000751018524
+      ],
+      "references": 1,
+      "hex": "#6D7881"
+    },
+    {
+      "name": "C-7 Cool Gray No.7",
+      "space": "RGB",
+      "values": [
+        95.00389292836189,
+        103.00389245152473,
+        111.00389197468758
+      ],
+      "references": 1,
+      "hex": "#5F676F"
+    },
+    {
+      "name": "C-8 Cool Gray No.8",
+      "space": "RGB",
+      "values": [
+        85.00389352440834,
+        87.00389340519905,
+        93.00389304757118
+      ],
+      "references": 1,
+      "hex": "#55575D"
+    },
+    {
+      "name": "C-9 Cool Gray No.9",
+      "space": "RGB",
+      "values": [
+        80.00000283122063,
+        81.00389376282692,
+        85.00389352440834
+      ],
+      "references": 1,
+      "hex": "#505155"
+    },
+    {
+      "name": "C=0 M=0 Y=100 K=0",
+      "space": "CMYK",
+      "values": [
+        0.0,
+        0.0,
+        100.0,
+        0.0
+      ],
+      "references": 1
+    },
+    {
+      "name": "C=0 M=100 Y=0 K=0",
+      "space": "CMYK",
+      "values": [
+        0.0,
+        100.0,
+        0.0,
+        0.0
+      ],
+      "references": 1
+    },
+    {
+      "name": "C=100 M=0 Y=0 K=0",
+      "space": "CMYK",
+      "values": [
+        100.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "references": 1
+    },
+    {
+      "name": "C=100 M=90 Y=10 K=0",
+      "space": "CMYK",
+      "values": [
+        100.0,
+        90.0,
+        10.0,
+        0.0
+      ],
+      "references": 1
+    },
+    {
+      "name": "C=12 M=0 Y=0 K=26",
+      "space": "CMYK",
+      "values": [
+        12.0,
+        0.0,
+        0.0,
+        26.0
+      ],
+      "references": 1
+    },
+    {
+      "name": "C=12 M=0 Y=0 K=55",
+      "space": "CMYK",
+      "values": [
+        12.0,
+        0.0,
+        0.0,
+        55.00000000000001
+      ],
+      "references": 1
+    },
+    {
+      "name": "C=15 M=100 Y=100 K=0",
+      "space": "CMYK",
+      "values": [
+        15.0,
+        100.0,
+        100.0,
+        0.0
+      ],
+      "references": 77
+    },
+    {
+      "name": "C=75 M=5 Y=100 K=0",
+      "space": "CMYK",
+      "values": [
+        75.0,
+        5.0,
+        100.0,
+        0.0
+      ],
+      "references": 2
+    },
+    {
+      "name": "Cyan",
+      "space": "CMYK",
+      "values": [
+        100.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "references": 0
+    },
+    {
+      "name": "E00 Skin White",
+      "space": "RGB",
+      "values": [
+        255.0,
+        225.00000178813934,
+        199.0000033378601
+      ],
+      "references": 1,
+      "hex": "#FFE1C7"
+    },
+    {
+      "name": "E000 Pale Fruit Pink",
+      "space": "RGB",
+      "values": [
+        255.0,
+        237.99611002206802,
+        219.99611109495163
+      ],
+      "references": 1,
+      "hex": "#FFEEDC"
+    },
+    {
+      "name": "E0000 Floral White",
+      "space": "RGB",
+      "values": [
+        255.0,
+        243.99610966444016,
+        227.99611061811447
+      ],
+      "references": 1,
+      "hex": "#FFF4E4"
+    },
+    {
+      "name": "E01 Pink Flamingo",
+      "space": "RGB",
+      "values": [
+        255.0,
+        213.00000250339508,
+        189.00000393390656
+      ],
+      "references": 1,
+      "hex": "#FFD5BD"
+    },
+    {
+      "name": "E02 Fruit Pink",
+      "space": "RGB",
+      "values": [
+        255.0,
+        187.99611300230026,
+        157.9961147904396
+      ],
+      "references": 1,
+      "hex": "#FFBC9E"
+    },
+    {
+      "name": "E04 Lipstick Natural",
+      "space": "RGB",
+      "values": [
+        203.99611204862595,
+        139.9961158633232,
+        139.9961158633232
+      ],
+      "references": 1,
+      "hex": "#CC8C8C"
+    },
+    {
+      "name": "E07 Light Mahogany",
+      "space": "RGB",
+      "values": [
+        179.99611347913742,
+        84.00000259280205,
+        78.00000295042992
+      ],
+      "references": 1,
+      "hex": "#B4544E"
+    },
+    {
+      "name": "E08 Brown",
+      "space": "RGB",
+      "values": [
+        193.00000369548798,
+        93.00389304757118,
+        78.00000295042992
+      ],
+      "references": 1,
+      "hex": "#C15D4E"
+    },
+    {
+      "name": "E09 Burnt Sienna",
+      "space": "RGB",
+      "values": [
+        155.00000596046448,
+        77.0038940012455,
+        68.00000354647636
+      ],
+      "references": 1,
+      "hex": "#9B4D44"
+    },
+    {
+      "name": "E11 Bareley Beige",
+      "space": "RGB",
+      "values": [
+        251.996109187603,
+        195.0000035762787,
+        157.9961147904396
+      ],
+      "references": 1,
+      "hex": "#FCC39E"
+    },
+    {
+      "name": "E13 Light Suntan",
+      "space": "RGB",
+      "values": [
+        229.99611049890518,
+        157.9961147904396,
+        122.00000032782555
+      ],
+      "references": 1,
+      "hex": "#E69E7A"
+    },
+    {
+      "name": "E15 Dark Suntan",
+      "space": "RGB",
+      "values": [
+        199.99611228704453,
+        120.00000044703484,
+        91.00389316678047
+      ],
+      "references": 1,
+      "hex": "#C8785B"
+    },
+    {
+      "name": "E17 Reddish Brass",
+      "space": "RGB",
+      "values": [
+        171.99611395597458,
+        101.00389257073402,
+        86.00000247359276
+      ],
+      "references": 1,
+      "hex": "#AC6556"
+    },
+    {
+      "name": "E18 Copper",
+      "space": "RGB",
+      "values": [
+        116.00000068545341,
+        75.00389412045479,
+        68.00000354647636
+      ],
+      "references": 1,
+      "hex": "#744B44"
+    },
+    {
+      "name": "E19 Redwood",
+      "space": "RGB",
+      "values": [
+        157.9961147904396,
+        82.00000271201134,
+        70.00000342726707
+      ],
+      "references": 1,
+      "hex": "#9E5246"
+    },
+    {
+      "name": "E21 Baby Skin Pink",
+      "space": "RGB",
+      "values": [
+        255.0,
+        205.99611192941666,
+        159.99611467123032
+      ],
+      "references": 1,
+      "hex": "#FFCEA0"
+    },
+    {
+      "name": "E23 Hazelnut",
+      "space": "RGB",
+      "values": [
+        193.00000369548798,
+        129.99611645936966,
+        96.00000187754631
+      ],
+      "references": 1,
+      "hex": "#C18260"
+    },
+    {
+      "name": "E25 Caribe Cocoa",
+      "space": "RGB",
+      "values": [
+        165.00000536441803,
+        110.00000104308128,
+        90.00000223517418
+      ],
+      "references": 1,
+      "hex": "#A56E5A"
+    },
+    {
+      "name": "E27 Africano",
+      "space": "RGB",
+      "values": [
+        131.00000739097595,
+        88.00000235438347,
+        74.0000031888485
+      ],
+      "references": 1,
+      "hex": "#83584A"
+    },
+    {
+      "name": "E29 Burnt Umber",
+      "space": "RGB",
+      "values": [
+        110.00000104308128,
+        76.0000030696392,
+        68.00000354647636
+      ],
+      "references": 1,
+      "hex": "#6E4C44"
+    },
+    {
+      "name": "E30 Bisque",
+      "space": "RGB",
+      "values": [
+        255.0,
+        225.99611073732376,
+        189.99611288309097
+      ],
+      "references": 1,
+      "hex": "#FFE2BE"
+    },
+    {
+      "name": "E31 Brick Beige",
+      "space": "RGB",
+      "values": [
+        237.99611002206802,
+        197.99611240625381,
+        147.99611538648605
+      ],
+      "references": 1,
+      "hex": "#EEC694"
+    },
+    {
+      "name": "E33 Sand",
+      "space": "RGB",
+      "values": [
+        221.99611097574234,
+        155.9961149096489,
+        111.00389197468758
+      ],
+      "references": 1,
+      "hex": "#DE9C6F"
+    },
+    {
+      "name": "E34 Orientale",
+      "space": "RGB",
+      "values": [
+        217.0000022649765,
+        153.00000607967377,
+        108.00000116229057
+      ],
+      "references": 1,
+      "hex": "#D9996C"
+    },
+    {
+      "name": "E35 Chamois",
+      "space": "RGB",
+      "values": [
+        195.9961125254631,
+        131.99611634016037,
+        85.00389352440834
+      ],
+      "references": 1,
+      "hex": "#C48455"
+    },
+    {
+      "name": "E37 Sepia",
+      "space": "RGB",
+      "values": [
+        155.9961149096489,
+        97.0038928091526,
+        71.00389435887337
+      ],
+      "references": 1,
+      "hex": "#9C6147"
+    },
+    {
+      "name": "E39 Leather",
+      "space": "RGB",
+      "values": [
+        157.0000058412552,
+        89.00389328598976,
+        64.00000378489494
+      ],
+      "references": 1,
+      "hex": "#9D5940"
+    },
+    {
+      "name": "E40 Brick White",
+      "space": "RGB",
+      "values": [
+        241.00000083446503,
+        231.9961103796959,
+        211.9961115717888
+      ],
+      "references": 1,
+      "hex": "#F1E8D4"
+    },
+    {
+      "name": "E41 Pearl White",
+      "space": "RGB",
+      "values": [
+        247.99610942602158,
+        227.99611061811447,
+        197.0000034570694
+      ],
+      "references": 1,
+      "hex": "#F8E4C5"
+    },
+    {
+      "name": "E42 Sand White",
+      "space": "RGB",
+      "values": [
+        233.9961102604866,
+        205.00000298023224,
+        167.99611419439316
+      ],
+      "references": 1,
+      "hex": "#EACDA8"
+    },
+    {
+      "name": "E43 Dull Ivory",
+      "space": "RGB",
+      "values": [
+        207.99611181020737,
+        177.0000046491623,
+        139.9961158633232
+      ],
+      "references": 1,
+      "hex": "#D0B18C"
+    },
+    {
+      "name": "E44 Clay",
+      "space": "RGB",
+      "values": [
+        153.99611502885818,
+        127.00389102101326,
+        96.00000187754631
+      ],
+      "references": 1,
+      "hex": "#9A7F60"
+    },
+    {
+      "name": "E47 Dark Brown",
+      "space": "RGB",
+      "values": [
+        120.00000044703484,
+        89.00389328598976,
+        75.00389412045479
+      ],
+      "references": 1,
+      "hex": "#78594B"
+    },
+    {
+      "name": "E49 Dark Bark",
+      "space": "RGB",
+      "values": [
+        79.00389388203621,
+        69.00389447808266,
+        64.00000378489494
+      ],
+      "references": 1,
+      "hex": "#4F4540"
+    },
+    {
+      "name": "E50 Egg Shell",
+      "space": "RGB",
+      "values": [
+        255.0,
+        239.00000095367432,
+        213.00000250339508
+      ],
+      "references": 1,
+      "hex": "#FFEFD5"
+    },
+    {
+      "name": "E51 Milky White",
+      "space": "RGB",
+      "values": [
+        255.0,
+        227.00000166893005,
+        189.00000393390656
+      ],
+      "references": 1,
+      "hex": "#FFE3BD"
+    },
+    {
+      "name": "E53 Raw Silk",
+      "space": "RGB",
+      "values": [
+        243.00000071525574,
+        199.99611228704453,
+        149.00000631809235
+      ],
+      "references": 1,
+      "hex": "#F3C895"
+    },
+    {
+      "name": "E55 Light Camel",
+      "space": "RGB",
+      "values": [
+        211.9961115717888,
+        163.00000548362732,
+        110.00000104308128
+      ],
+      "references": 1,
+      "hex": "#D4A36E"
+    },
+    {
+      "name": "E57 Light Walnut",
+      "space": "RGB",
+      "values": [
+        153.99611502885818,
+        106.00000128149986,
+        78.00000295042992
+      ],
+      "references": 1,
+      "hex": "#9A6A4E"
+    },
+    {
+      "name": "E59 Walnut",
+      "space": "RGB",
+      "values": [
+        113.00389185547829,
+        82.00000271201134,
+        69.00389447808266
+      ],
+      "references": 1,
+      "hex": "#715245"
+    },
+    {
+      "name": "E70 Ash Rose",
+      "space": "RGB",
+      "values": [
+        215.9961113333702,
+        193.00000369548798,
+        181.99611335992813
+      ],
+      "references": 1,
+      "hex": "#D8C1B6"
+    },
+    {
+      "name": "E71 Champagne",
+      "space": "RGB",
+      "values": [
+        187.00000405311584,
+        159.0000057220459,
+        149.99611526727676
+      ],
+      "references": 1,
+      "hex": "#BB9F96"
+    },
+    {
+      "name": "E74 Cocoa Brown",
+      "space": "RGB",
+      "values": [
+        157.9961147904396,
+        129.99611645936966,
+        123.00389125943184
+      ],
+      "references": 1,
+      "hex": "#9E827B"
+    },
+    {
+      "name": "E77 Maroon",
+      "space": "RGB",
+      "values": [
+        127.00389102101326,
+        101.00389257073402,
+        95.00389292836189
+      ],
+      "references": 1,
+      "hex": "#7F655F"
+    },
+    {
+      "name": "E79 Cashew",
+      "space": "RGB",
+      "values": [
+        103.00389245152473,
+        85.00389352440834,
+        81.00389376282692
+      ],
+      "references": 1,
+      "hex": "#675551"
+    },
+    {
+      "name": "E81 Ivory",
+      "space": "RGB",
+      "values": [
+        237.0000010728836,
+        221.00000202655792,
+        181.0000044107437
+      ],
+      "references": 1,
+      "hex": "#EDDDB5"
+    },
+    {
+      "name": "E84 Khaki",
+      "space": "RGB",
+      "values": [
+        165.00000536441803,
+        135.00000715255737,
+        87.00389340519905
+      ],
+      "references": 1,
+      "hex": "#A58757"
+    },
+    {
+      "name": "E87 Fig",
+      "space": "RGB",
+      "values": [
+        116.00000068545341,
+        96.00000187754631,
+        72.00000330805779
+      ],
+      "references": 1,
+      "hex": "#746048"
+    },
+    {
+      "name": "E89 Pecan",
+      "space": "RGB",
+      "values": [
+        78.00000295042992,
+        70.00000342726707,
+        62.00000010430813
+      ],
+      "references": 1,
+      "hex": "#4E463E"
+    },
+    {
+      "name": "E93 Tea Rose",
+      "space": "RGB",
+      "values": [
+        255.0,
+        189.00000393390656,
+        167.00000524520874
+      ],
+      "references": 1,
+      "hex": "#FFBDA7"
+    },
+    {
+      "name": "E95 Flesh Pink",
+      "space": "RGB",
+      "values": [
+        255.0,
+        181.99611335992813,
+        141.0000067949295
+      ],
+      "references": 1,
+      "hex": "#FFB68D"
+    },
+    {
+      "name": "E97 Deep Orange",
+      "space": "RGB",
+      "values": [
+        237.0000010728836,
+        145.00000655651093,
+        90.00000223517418
+      ],
+      "references": 1,
+      "hex": "#ED915A"
+    },
+    {
+      "name": "E99 Baked Clay",
+      "space": "RGB",
+      "values": [
+        171.99611395597458,
+        98.00000175833702,
+        64.00000378489494
+      ],
+      "references": 1,
+      "hex": "#AC6240"
+    },
+    {
+      "name": "FB2 Fluorescent Dull Blue",
+      "space": "RGB",
+      "values": [
+        0.0,
+        157.9961147904396,
+        241.00000083446503
+      ],
+      "references": 1,
+      "hex": "#009EF1"
+    },
+    {
+      "name": "FBG2 Fluorescent Dull Blue Green",
+      "space": "RGB",
+      "values": [
+        77.0038940012455,
+        215.9961113333702,
+        229.99611049890518
+      ],
+      "references": 1,
+      "hex": "#4DD8E6"
+    },
+    {
+      "name": "FRV1 Fluorescent Pink",
+      "space": "RGB",
+      "values": [
+        255.0,
+        153.99611502885818,
+        223.00000190734863
+      ],
+      "references": 1,
+      "hex": "#FF9ADF"
+    },
+    {
+      "name": "FV2 Fluorescent Dull Violet",
+      "space": "RGB",
+      "values": [
+        90.00000223517418,
+        110.00000104308128,
+        219.99611109495163
+      ],
+      "references": 1,
+      "hex": "#5A6EDC"
+    },
+    {
+      "name": "FY1 Fluorescent Yellow Orange",
+      "space": "RGB",
+      "values": [
+        255.0,
+        227.99611061811447,
+        70.00000342726707
+      ],
+      "references": 1,
+      "hex": "#FFE446"
+    },
+    {
+      "name": "FYG1 Fluorescent Yellow",
+      "space": "RGB",
+      "values": [
+        247.99610942602158,
+        255.0,
+        119.00389149785042
+      ],
+      "references": 1,
+      "hex": "#F8FF77"
+    },
+    {
+      "name": "FYG2 Fluorescent Dull Yellow Green",
+      "space": "RGB",
+      "values": [
+        113.00389185547829,
+        191.99611276388168,
+        71.00389435887337
+      ],
+      "references": 1,
+      "hex": "#71C047"
+    },
+    {
+      "name": "FYR1 Fluorescent Orange",
+      "space": "RGB",
+      "values": [
+        255.0,
+        179.000004529953,
+        82.00000271201134
+      ],
+      "references": 1,
+      "hex": "#FFB352"
+    },
+    {
+      "name": "Flame",
+      "space": "CMYK",
+      "values": [
+        19.200000166893005,
+        95.6499993801117,
+        100.0,
+        15.0
+      ],
+      "references": 1
+    },
+    {
+      "name": "G00 Jade Green",
+      "space": "RGB",
+      "values": [
+        193.00000369548798,
+        243.00000071525574,
+        213.9961114525795
+      ],
+      "references": 1,
+      "hex": "#C1F3D6"
+    },
+    {
+      "name": "G000 Pale Green",
+      "space": "RGB",
+      "values": [
+        219.0000021457672,
+        247.99610942602158,
+        227.00000166893005
+      ],
+      "references": 1,
+      "hex": "#DBF8E3"
+    },
+    {
+      "name": "G0000 Crystal Opal",
+      "space": "RGB",
+      "values": [
+        229.99611049890518,
+        247.99610942602158,
+        231.00000143051147
+      ],
+      "references": 1,
+      "hex": "#E6F8E7"
+    },
+    {
+      "name": "G02 Spectrum Green",
+      "space": "RGB",
+      "values": [
+        103.00389245152473,
+        211.9961115717888,
+        135.9961161017418
+      ],
+      "references": 1,
+      "hex": "#67D488"
+    },
+    {
+      "name": "G03 Meadow Green",
+      "space": "RGB",
+      "values": [
+        84.00000259280205,
+        201.99611216783524,
+        114.0000008046627
+      ],
+      "references": 1,
+      "hex": "#54CA72"
+    },
+    {
+      "name": "G05 Emerald Green",
+      "space": "RGB",
+      "values": [
+        56.000000461936,
+        171.99611395597458,
+        84.00000259280205
+      ],
+      "references": 1,
+      "hex": "#38AC54"
+    },
+    {
+      "name": "G07 Nile Green",
+      "space": "RGB",
+      "values": [
+        85.00389352440834,
+        143.00000667572021,
+        83.00389364361763
+      ],
+      "references": 1,
+      "hex": "#558F53"
+    },
+    {
+      "name": "G09 Veronese Green",
+      "space": "RGB",
+      "values": [
+        0.0,
+        147.99611538648605,
+        76.0000030696392
+      ],
+      "references": 1,
+      "hex": "#00944C"
+    },
+    {
+      "name": "G12 Sea Green",
+      "space": "RGB",
+      "values": [
+        177.0000046491623,
+        221.00000202655792,
+        165.99611431360245
+      ],
+      "references": 1,
+      "hex": "#B1DDA6"
+    },
+    {
+      "name": "G14 Apple Green",
+      "space": "RGB",
+      "values": [
+        108.00000116229057,
+        185.99611312150955,
+        75.00389412045479
+      ],
+      "references": 1,
+      "hex": "#6CBA4B"
+    },
+    {
+      "name": "G16 Malachite",
+      "space": "RGB",
+      "values": [
+        20.000000707805157,
+        145.99611550569534,
+        101.00389257073402
+      ],
+      "references": 1,
+      "hex": "#149265"
+    },
+    {
+      "name": "G17 Forest Green",
+      "space": "RGB",
+      "values": [
+        40.00000141561031,
+        135.00000715255737,
+        88.00000235438347
+      ],
+      "references": 1,
+      "hex": "#288758"
+    },
+    {
+      "name": "G19 Bright Parrot Green",
+      "space": "RGB",
+      "values": [
+        14.000000115484,
+        143.00000667572021,
+        87.00389340519905
+      ],
+      "references": 1,
+      "hex": "#0E8F57"
+    },
+    {
+      "name": "G20 Wax White",
+      "space": "RGB",
+      "values": [
+        239.99610990285873,
+        245.00000059604645,
+        189.99611288309097
+      ],
+      "references": 1,
+      "hex": "#F0F5BE"
+    },
+    {
+      "name": "G21 Lime Green",
+      "space": "RGB",
+      "values": [
+        177.0000046491623,
+        199.0000033378601,
+        143.99611562490463
+      ],
+      "references": 1,
+      "hex": "#B1C790"
+    },
+    {
+      "name": "G24 Willow",
+      "space": "RGB",
+      "values": [
+        149.00000631809235,
+        173.00000488758087,
+        114.0000008046627
+      ],
+      "references": 1,
+      "hex": "#95AD72"
+    },
+    {
+      "name": "G28 Ocean Green",
+      "space": "RGB",
+      "values": [
+        79.00389388203621,
+        111.00389197468758,
+        87.00389340519905
+      ],
+      "references": 1,
+      "hex": "#4F6F57"
+    },
+    {
+      "name": "G29 Pine Tree Green",
+      "space": "RGB",
+      "values": [
+        69.00389447808266,
+        97.0038928091526,
+        80.00000283122063
+      ],
+      "references": 1,
+      "hex": "#456150"
+    },
+    {
+      "name": "G40 Dim Green",
+      "space": "RGB",
+      "values": [
+        231.9961103796959,
+        237.0000010728836,
+        189.99611288309097
+      ],
+      "references": 1,
+      "hex": "#E8EDBE"
+    },
+    {
+      "name": "G43 Pistachio",
+      "space": "RGB",
+      "values": [
+        167.99611419439316,
+        181.99611335992813,
+        101.00389257073402
+      ],
+      "references": 1,
+      "hex": "#A8B665"
+    },
+    {
+      "name": "G46 Mistletoe",
+      "space": "RGB",
+      "values": [
+        96.00000187754631,
+        123.00389125943184,
+        87.00389340519905
+      ],
+      "references": 1,
+      "hex": "#607B57"
+    },
+    {
+      "name": "G82 Spring Dim Green",
+      "space": "RGB",
+      "values": [
+        171.00000500679016,
+        187.99611300230026,
+        126.00000008940697
+      ],
+      "references": 1,
+      "hex": "#ABBC7E"
+    },
+    {
+      "name": "G85 Verdigris",
+      "space": "RGB",
+      "values": [
+        131.00000739097595,
+        145.99611550569534,
+        108.00000116229057
+      ],
+      "references": 1,
+      "hex": "#83926C"
+    },
+    {
+      "name": "G94 Grayish Olive",
+      "space": "RGB",
+      "values": [
+        131.00000739097595,
+        147.99611538648605,
+        106.00000128149986
+      ],
+      "references": 1,
+      "hex": "#83946A"
+    },
+    {
+      "name": "G94 Grayish Olive copy",
+      "space": "RGB",
+      "values": [
+        131.00000739097595,
+        147.99611538648605,
+        106.00000128149986
+      ],
+      "references": 3,
+      "hex": "#83946A"
+    },
+    {
+      "name": "G99 Olive",
+      "space": "RGB",
+      "values": [
+        94.0000019967556,
+        94.0000019967556,
+        65.00389471650124
+      ],
+      "references": 1,
+      "hex": "#5E5E41"
+    },
+    {
+      "name": "Hyperlink",
+      "space": "CMYK",
+      "values": [
+        86.0,
+        56.99999999999999,
+        0.0,
+        16.0
+      ],
+      "references": 1
+    },
+    {
+      "name": "Magenta",
+      "space": "CMYK",
+      "values": [
+        0.0,
+        100.0,
+        0.0,
+        0.0
+      ],
+      "references": 0
+    },
+    {
+      "name": "N-0 Neutral Gray No.0",
+      "space": "RGB",
+      "values": [
+        231.00000143051147,
+        233.00000131130219,
+        227.00000166893005
+      ],
+      "references": 1,
+      "hex": "#E7E9E3"
+    },
+    {
+      "name": "N-1 Neutral Gray No.1",
+      "space": "RGB",
+      "values": [
+        219.99611109495163,
+        223.00000190734863,
+        217.99611121416092
+      ],
+      "references": 1,
+      "hex": "#DCDFDA"
+    },
+    {
+      "name": "N-10 Neutral Gray No.10",
+      "space": "RGB",
+      "values": [
+        73.00389423966408,
+        68.00000354647636,
+        69.00389447808266
+      ],
+      "references": 1,
+      "hex": "#494445"
+    },
+    {
+      "name": "N-2 Neutral Gray No.2",
+      "space": "RGB",
+      "values": [
+        201.00000321865082,
+        205.00000298023224,
+        203.00000309944153
+      ],
+      "references": 1,
+      "hex": "#C9CDCB"
+    },
+    {
+      "name": "N-3 Neutral Gray No.3",
+      "space": "RGB",
+      "values": [
+        171.00000500679016,
+        177.0000046491623,
+        177.0000046491623
+      ],
+      "references": 1,
+      "hex": "#ABB1B1"
+    },
+    {
+      "name": "N-4 Neutral Gray No.4",
+      "space": "RGB",
+      "values": [
+        147.00000643730164,
+        153.00000607967377,
+        155.00000596046448
+      ],
+      "references": 12,
+      "hex": "#93999B"
+    },
+    {
+      "name": "N-4 Neutral Gray No.4 copy",
+      "space": "CMYK",
+      "values": [
+        45.13999819755554,
+        33.889999985694885,
+        34.369999170303345,
+        0.8999999612569809
+      ],
+      "references": 1
+    },
+    {
+      "name": "N-5 Neutral Gray No.5",
+      "space": "RGB",
+      "values": [
+        118.00000056624413,
+        123.00389125943184,
+        125.00389114022255
+      ],
+      "references": 1,
+      "hex": "#767B7D"
+    },
+    {
+      "name": "N-6 Neutral Gray No.6",
+      "space": "RGB",
+      "values": [
+        98.00000175833702,
+        102.00000151991844,
+        104.00000140070915
+      ],
+      "references": 1,
+      "hex": "#626668"
+    },
+    {
+      "name": "N-7 Neutral Gray No.7",
+      "space": "RGB",
+      "values": [
+        88.00000235438347,
+        89.00389328598976,
+        90.00000223517418
+      ],
+      "references": 1,
+      "hex": "#58595A"
+    },
+    {
+      "name": "N-8 Neutral Gray No.8",
+      "space": "RGB",
+      "values": [
+        81.00389376282692,
+        80.00000283122063,
+        81.00389376282692
+      ],
+      "references": 1,
+      "hex": "#515051"
+    },
+    {
+      "name": "N-9 Neutral Gray No.9",
+      "space": "RGB",
+      "values": [
+        77.0038940012455,
+        74.0000031888485,
+        74.0000031888485
+      ],
+      "references": 1,
+      "hex": "#4D4A4A"
+    },
+    {
+      "name": "Paper",
+      "space": "CMYK",
+      "values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "references": 76
+    },
+    {
+      "name": "R00 Pinkish White",
+      "space": "RGB",
+      "values": [
+        255.0,
+        227.00000166893005,
+        211.9961115717888
+      ],
+      "references": 1,
+      "hex": "#FFE3D4"
+    },
+    {
+      "name": "R000 Cherry White",
+      "space": "RGB",
+      "values": [
+        255.0,
+        239.00000095367432,
+        227.00000166893005
+      ],
+      "references": 1,
+      "hex": "#FFEFE3"
+    },
+    {
+      "name": "R0000 Pink Beryl",
+      "space": "RGB",
+      "values": [
+        253.0000001192093,
+        243.99610966444016,
+        233.00000131130219
+      ],
+      "references": 1,
+      "hex": "#FDF4E9"
+    },
+    {
+      "name": "R01 Pinkish Vanilla",
+      "space": "RGB",
+      "values": [
+        255.0,
+        215.0000023841858,
+        193.9961126446724
+      ],
+      "references": 1,
+      "hex": "#FFD7C2"
+    },
+    {
+      "name": "R02 Flesh",
+      "space": "RGB",
+      "values": [
+        255.0,
+        171.99611395597458,
+        143.00000667572021
+      ],
+      "references": 1,
+      "hex": "#FFAC8F"
+    },
+    {
+      "name": "R05 Salmon Red",
+      "space": "RGB",
+      "values": [
+        237.0000010728836,
+        93.00389304757118,
+        71.00389435887337
+      ],
+      "references": 1,
+      "hex": "#ED5D47"
+    },
+    {
+      "name": "R08 Vermilion",
+      "space": "RGB",
+      "values": [
+        215.0000023841858,
+        83.00389364361763,
+        65.00389471650124
+      ],
+      "references": 1,
+      "hex": "#D75341"
+    },
+    {
+      "name": "R11 Pale Chery Pink",
+      "space": "RGB",
+      "values": [
+        255.0,
+        211.9961115717888,
+        193.9961126446724
+      ],
+      "references": 1,
+      "hex": "#FFD4C2"
+    },
+    {
+      "name": "R12 Light Tea Rose",
+      "space": "RGB",
+      "values": [
+        255.0,
+        191.00000381469727,
+        167.00000524520874
+      ],
+      "references": 1,
+      "hex": "#FFBFA7"
+    },
+    {
+      "name": "R14 Light Rouse",
+      "space": "RGB",
+      "values": [
+        247.00000047683716,
+        109.00389209389687,
+        103.00389245152473
+      ],
+      "references": 1,
+      "hex": "#F76D67"
+    },
+    {
+      "name": "R17 Lipstick Orange",
+      "space": "RGB",
+      "values": [
+        229.00000154972076,
+        89.00389328598976,
+        81.00389376282692
+      ],
+      "references": 1,
+      "hex": "#E55951"
+    },
+    {
+      "name": "R20 Blush",
+      "space": "RGB",
+      "values": [
+        255.0,
+        197.0000034570694,
+        187.99611300230026
+      ],
+      "references": 1,
+      "hex": "#FFC5BC"
+    },
+    {
+      "name": "R21 Sardonyx",
+      "space": "RGB",
+      "values": [
+        255.0,
+        177.0000046491623,
+        171.00000500679016
+      ],
+      "references": 1,
+      "hex": "#FFB1AB"
+    },
+    {
+      "name": "R22 Light Prawn",
+      "space": "RGB",
+      "values": [
+        255.0,
+        133.99611622095108,
+        129.99611645936966
+      ],
+      "references": 1,
+      "hex": "#FF8682"
+    },
+    {
+      "name": "R24 Prawn",
+      "space": "RGB",
+      "values": [
+        231.00000143051147,
+        94.0000019967556,
+        90.00000223517418
+      ],
+      "references": 1,
+      "hex": "#E75E5A"
+    },
+    {
+      "name": "R27 Cadmium Red",
+      "space": "RGB",
+      "values": [
+        205.00000298023224,
+        77.0038940012455,
+        77.0038940012455
+      ],
+      "references": 1,
+      "hex": "#CD4D4D"
+    },
+    {
+      "name": "R29 Lipstick Red",
+      "space": "RGB",
+      "values": [
+        187.00000405311584,
+        62.00000010430813,
+        69.00389447808266
+      ],
+      "references": 1,
+      "hex": "#BB3E45"
+    },
+    {
+      "name": "R30 Pale Yellowish Pink",
+      "space": "RGB",
+      "values": [
+        255.0,
+        215.0000023841858,
+        201.00000321865082
+      ],
+      "references": 1,
+      "hex": "#FFD7C9"
+    },
+    {
+      "name": "R32 Peach",
+      "space": "RGB",
+      "values": [
+        255.0,
+        163.00000548362732,
+        161.99611455202103
+      ],
+      "references": 1,
+      "hex": "#FFA3A2"
+    },
+    {
+      "name": "R35 Coral",
+      "space": "RGB",
+      "values": [
+        231.9961103796959,
+        87.00389340519905,
+        100.00000163912773
+      ],
+      "references": 1,
+      "hex": "#E85764"
+    },
+    {
+      "name": "R37 Carmine",
+      "space": "RGB",
+      "values": [
+        187.99611300230026,
+        70.00000342726707,
+        85.00389352440834
+      ],
+      "references": 1,
+      "hex": "#BC4655"
+    },
+    {
+      "name": "R39 Garnet",
+      "space": "RGB",
+      "values": [
+        153.00000607967377,
+        66.00000366568565,
+        79.00389388203621
+      ],
+      "references": 1,
+      "hex": "#99424F"
+    },
+    {
+      "name": "R43 Bougainvillaea",
+      "space": "RGB",
+      "values": [
+        255.0,
+        135.9961161017418,
+        151.00000619888306
+      ],
+      "references": 1,
+      "hex": "#FF8897"
+    },
+    {
+      "name": "R46 Strong Red",
+      "space": "RGB",
+      "values": [
+        187.00000405311584,
+        67.00389459729195,
+        78.00000295042992
+      ],
+      "references": 1,
+      "hex": "#BB434E"
+    },
+    {
+      "name": "R46 Strong Red copy",
+      "space": "RGB",
+      "values": [
+        187.00000405311584,
+        67.00389459729195,
+        78.00000295042992
+      ],
+      "references": 2,
+      "hex": "#BB434E"
+    },
+    {
+      "name": "R56 Currant",
+      "space": "RGB",
+      "values": [
+        159.0000057220459,
+        85.00389352440834,
+        97.0038928091526
+      ],
+      "references": 1,
+      "hex": "#9F5561"
+    },
+    {
+      "name": "R59 Cardinal",
+      "space": "RGB",
+      "values": [
+        135.00000715255737,
+        69.00389447808266,
+        69.00389447808266
+      ],
+      "references": 1,
+      "hex": "#874545"
+    },
+    {
+      "name": "R81 Rose Pink",
+      "space": "RGB",
+      "values": [
+        245.99610954523087,
+        193.00000369548798,
+        207.00000286102295
+      ],
+      "references": 1,
+      "hex": "#F6C1CF"
+    },
+    {
+      "name": "R83 Rose Mist",
+      "space": "RGB",
+      "values": [
+        235.9961101412773,
+        157.9961147904396,
+        179.99611347913742
+      ],
+      "references": 1,
+      "hex": "#EC9EB4"
+    },
+    {
+      "name": "R83 Rose Mist copy",
+      "space": "RGB",
+      "values": [
+        211.9961115717888,
+        110.00000104308128,
+        135.00000715255737
+      ],
+      "references": 1,
+      "hex": "#D46E87"
+    },
+    {
+      "name": "R89 Dark Red",
+      "space": "RGB",
+      "values": [
+        124.00000020861626,
+        69.00389447808266,
+        64.00000378489494
+      ],
+      "references": 1,
+      "hex": "#7C4540"
+    },
+    {
+      "name": "R=239 G=238 B=237",
+      "space": "RGB",
+      "values": [
+        239.00000095367432,
+        237.99611002206802,
+        237.0000010728836
+      ],
+      "references": 1,
+      "hex": "#EFEEED"
+    },
+    {
+      "name": "RV00 Water Lily",
+      "space": "RGB",
+      "values": [
+        255.0,
+        233.00000131130219,
+        235.9961101412773
+      ],
+      "references": 1,
+      "hex": "#FFE9EC"
+    },
+    {
+      "name": "RV000 Pale Purple",
+      "space": "RGB",
+      "values": [
+        255.0,
+        241.99610978364944,
+        239.99610990285873
+      ],
+      "references": 1,
+      "hex": "#FFF2F0"
+    },
+    {
+      "name": "RV0000 Evening Primrose",
+      "space": "RGB",
+      "values": [
+        255.0,
+        247.00000047683716,
+        241.00000083446503
+      ],
+      "references": 1,
+      "hex": "#FFF7F1"
+    },
+    {
+      "name": "RV02 Sugared Almond Pink",
+      "space": "RGB",
+      "values": [
+        255.0,
+        205.99611192941666,
+        237.0000010728836
+      ],
+      "references": 1,
+      "hex": "#FFCEED"
+    },
+    {
+      "name": "RV04 Shock Pink",
+      "space": "RGB",
+      "values": [
+        255.0,
+        118.00000056624413,
+        161.99611455202103
+      ],
+      "references": 1,
+      "hex": "#FF76A2"
+    },
+    {
+      "name": "RV06 Cerise",
+      "space": "RGB",
+      "values": [
+        247.99610942602158,
+        93.00389304757118,
+        179.000004529953
+      ],
+      "references": 1,
+      "hex": "#F85DB3"
+    },
+    {
+      "name": "RV09 Fuchsia",
+      "space": "RGB",
+      "values": [
+        205.00000298023224,
+        68.00000354647636,
+        121.00389137864113
+      ],
+      "references": 1,
+      "hex": "#CD4479"
+    },
+    {
+      "name": "RV10 Pale Pink",
+      "space": "RGB",
+      "values": [
+        255.0,
+        225.00000178813934,
+        233.9961102604866
+      ],
+      "references": 1,
+      "hex": "#FFE1EA"
+    },
+    {
+      "name": "RV11 Pink",
+      "space": "RGB",
+      "values": [
+        249.00000035762787,
+        187.00000405311584,
+        191.99611276388168
+      ],
+      "references": 1,
+      "hex": "#F9BBC0"
+    },
+    {
+      "name": "RV13 Tender Pink",
+      "space": "RGB",
+      "values": [
+        255.0,
+        143.00000667572021,
+        173.00000488758087
+      ],
+      "references": 1,
+      "hex": "#FF8FAD"
+    },
+    {
+      "name": "RV14 Begonia Pink",
+      "space": "RGB",
+      "values": [
+        241.99610978364944,
+        99.00389268994331,
+        131.00000739097595
+      ],
+      "references": 1,
+      "hex": "#F26383"
+    },
+    {
+      "name": "RV17 Deep Magenta",
+      "space": "RGB",
+      "values": [
+        183.99611324071884,
+        80.00000283122063,
+        124.00000020861626
+      ],
+      "references": 1,
+      "hex": "#B8507C"
+    },
+    {
+      "name": "RV19 Red Violet",
+      "space": "RGB",
+      "values": [
+        173.00000488758087,
+        73.00389423966408,
+        107.00389221310616
+      ],
+      "references": 1,
+      "hex": "#AD496B"
+    },
+    {
+      "name": "RV21 Light Pink",
+      "space": "RGB",
+      "values": [
+        255.0,
+        187.99611300230026,
+        205.99611192941666
+      ],
+      "references": 1,
+      "hex": "#FFBCCE"
+    },
+    {
+      "name": "RV23 Pure Pink",
+      "space": "RGB",
+      "values": [
+        255.0,
+        155.9961149096489,
+        181.0000044107437
+      ],
+      "references": 1,
+      "hex": "#FF9CB5"
+    },
+    {
+      "name": "RV25 Dog Rose Flower",
+      "space": "RGB",
+      "values": [
+        241.00000083446503,
+        97.0038928091526,
+        125.00389114022255
+      ],
+      "references": 1,
+      "hex": "#F1617D"
+    },
+    {
+      "name": "RV29 Crimson",
+      "space": "RGB",
+      "values": [
+        199.99611228704453,
+        69.00389447808266,
+        87.00389340519905
+      ],
+      "references": 1,
+      "hex": "#C84557"
+    },
+    {
+      "name": "RV32 Shadow Pink",
+      "space": "RGB",
+      "values": [
+        243.99610966444016,
+        171.00000500679016,
+        179.99611347913742
+      ],
+      "references": 1,
+      "hex": "#F4ABB4"
+    },
+    {
+      "name": "RV34 Dark Pink",
+      "space": "RGB",
+      "values": [
+        221.00000202655792,
+        124.00000020861626,
+        155.9961149096489
+      ],
+      "references": 1,
+      "hex": "#DD7C9C"
+    },
+    {
+      "name": "RV42 Salmon Pink",
+      "space": "RGB",
+      "values": [
+        255.0,
+        167.00000524520874,
+        155.00000596046448
+      ],
+      "references": 1,
+      "hex": "#FFA79B"
+    },
+    {
+      "name": "RV52 Cotton Candy",
+      "space": "RGB",
+      "values": [
+        247.99610942602158,
+        193.00000369548798,
+        223.99611085653305
+      ],
+      "references": 1,
+      "hex": "#F8C1E0"
+    },
+    {
+      "name": "RV55 Hollyhock",
+      "space": "RGB",
+      "values": [
+        227.99611061811447,
+        133.00000727176666,
+        181.99611335992813
+      ],
+      "references": 1,
+      "hex": "#E485B6"
+    },
+    {
+      "name": "RV63 Begonia",
+      "space": "RGB",
+      "values": [
+        231.9961103796959,
+        175.00000476837158,
+        215.9961113333702
+      ],
+      "references": 1,
+      "hex": "#E8AFD8"
+    },
+    {
+      "name": "RV66 Raspberry",
+      "space": "RGB",
+      "values": [
+        169.00000512599945,
+        92.00000211596489,
+        141.0000067949295
+      ],
+      "references": 5,
+      "hex": "#A95C8D"
+    },
+    {
+      "name": "RV66 Raspberry copy",
+      "space": "RGB",
+      "values": [
+        169.00000512599945,
+        92.00000211596489,
+        141.0000067949295
+      ],
+      "references": 27,
+      "hex": "#A95C8D"
+    },
+    {
+      "name": "RV69 Peony",
+      "space": "RGB",
+      "values": [
+        129.00000751018524,
+        73.00389423966408,
+        74.0000031888485
+      ],
+      "references": 1,
+      "hex": "#81494A"
+    },
+    {
+      "name": "RV91 Grayish Cherry",
+      "space": "RGB",
+      "values": [
+        243.00000071525574,
+        215.9961113333702,
+        219.0000021457672
+      ],
+      "references": 1,
+      "hex": "#F3D8DB"
+    },
+    {
+      "name": "RV93 Smoky Purple",
+      "space": "RGB",
+      "values": [
+        223.99611085653305,
+        175.996113717556,
+        187.99611300230026
+      ],
+      "references": 1,
+      "hex": "#E0B0BC"
+    },
+    {
+      "name": "RV95 Baby Blossoms",
+      "space": "RGB",
+      "values": [
+        187.99611300230026,
+        135.00000715255737,
+        151.00000619888306
+      ],
+      "references": 1,
+      "hex": "#BC8797"
+    },
+    {
+      "name": "RV99 Argyle Purple",
+      "space": "RGB",
+      "values": [
+        97.0038928091526,
+        77.0038940012455,
+        79.00389388203621
+      ],
+      "references": 1,
+      "hex": "#614D4F"
+    },
+    {
+      "name": "Registration",
+      "space": "CMYK",
+      "values": [
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ],
+      "references": 39
+    },
+    {
+      "name": "T-0 Toner Gray No.0",
+      "space": "RGB",
+      "values": [
+        235.9961101412773,
+        235.0000011920929,
+        227.00000166893005
+      ],
+      "references": 2,
+      "hex": "#ECEBE3"
+    },
+    {
+      "name": "T-1 Toner Gray No.1",
+      "space": "RGB",
+      "values": [
+        221.99611097574234,
+        221.00000202655792,
+        213.00000250339508
+      ],
+      "references": 1,
+      "hex": "#DEDDD5"
+    },
+    {
+      "name": "T-10 Toner Gray No.10",
+      "space": "RGB",
+      "values": [
+        71.00389435887337,
+        68.00000354647636,
+        68.00000354647636
+      ],
+      "references": 1,
+      "hex": "#474444"
+    },
+    {
+      "name": "T-2 Toner Gray No.2",
+      "space": "RGB",
+      "values": [
+        205.99611192941666,
+        203.99611204862595,
+        197.0000034570694
+      ],
+      "references": 1,
+      "hex": "#CECCC5"
+    },
+    {
+      "name": "T-3 Toner Gray No.3",
+      "space": "RGB",
+      "values": [
+        181.0000044107437,
+        179.000004529953,
+        173.00000488758087
+      ],
+      "references": 1,
+      "hex": "#B5B3AD"
+    },
+    {
+      "name": "T-4 Toner Gray No.4",
+      "space": "RGB",
+      "values": [
+        153.99611502885818,
+        151.99611514806747,
+        147.00000643730164
+      ],
+      "references": 1,
+      "hex": "#9A9893"
+    },
+    {
+      "name": "T-5 Toner Gray No.5",
+      "space": "RGB",
+      "values": [
+        126.00000008940697,
+        125.00389114022255,
+        121.00389137864113
+      ],
+      "references": 1,
+      "hex": "#7E7D79"
+    },
+    {
+      "name": "T-6 Toner Gray No.6",
+      "space": "RGB",
+      "values": [
+        109.00389209389687,
+        107.00389221310616,
+        104.00000140070915
+      ],
+      "references": 1,
+      "hex": "#6D6B68"
+    },
+    {
+      "name": "T-7 Toner Gray No.7",
+      "space": "RGB",
+      "values": [
+        88.00000235438347,
+        86.00000247359276,
+        84.00000259280205
+      ],
+      "references": 1,
+      "hex": "#585654"
+    },
+    {
+      "name": "T-8 Toner Gray No.8",
+      "space": "RGB",
+      "values": [
+        66.00000366568565,
+        63.00389103591442,
+        63.00389103591442
+      ],
+      "references": 1,
+      "hex": "#423F3F"
+    },
+    {
+      "name": "T-9 Toner Gray No.9",
+      "space": "RGB",
+      "values": [
+        67.00389459729195,
+        64.00000378489494,
+        64.00000378489494
+      ],
+      "references": 2,
+      "hex": "#434040"
+    },
+    {
+      "name": "V000 Pale Heath",
+      "space": "RGB",
+      "values": [
+        251.996109187603,
+        231.9961103796959,
+        235.9961101412773
+      ],
+      "references": 1,
+      "hex": "#FCE8EC"
+    },
+    {
+      "name": "V0000 Rose Quartz",
+      "space": "RGB",
+      "values": [
+        253.0000001192093,
+        239.99610990285873,
+        237.0000010728836
+      ],
+      "references": 1,
+      "hex": "#FDF0ED"
+    },
+    {
+      "name": "V01 Heath",
+      "space": "RGB",
+      "values": [
+        227.00000166893005,
+        193.9961126446724,
+        221.99611097574234
+      ],
+      "references": 1,
+      "hex": "#E3C2DE"
+    },
+    {
+      "name": "V04 Lilac",
+      "space": "RGB",
+      "values": [
+        189.00000393390656,
+        137.9961159825325,
+        229.99611049890518
+      ],
+      "references": 1,
+      "hex": "#BD8AE6"
+    },
+    {
+      "name": "V05 Marigold",
+      "space": "RGB",
+      "values": [
+        199.0000033378601,
+        127.00389102101326,
+        175.00000476837158
+      ],
+      "references": 1,
+      "hex": "#C77FAF"
+    },
+    {
+      "name": "V06 Lavender",
+      "space": "RGB",
+      "values": [
+        161.99611455202103,
+        107.00389221310616,
+        151.99611514806747
+      ],
+      "references": 1,
+      "hex": "#A26B98"
+    },
+    {
+      "name": "V09 Violet",
+      "space": "RGB",
+      "values": [
+        93.00389304757118,
+        73.00389423966408,
+        106.00000128149986
+      ],
+      "references": 1,
+      "hex": "#5D496A"
+    },
+    {
+      "name": "V12 Pale Lilac",
+      "space": "RGB",
+      "values": [
+        211.00000262260437,
+        171.99611395597458,
+        211.9961115717888
+      ],
+      "references": 1,
+      "hex": "#D3ACD4"
+    },
+    {
+      "name": "V15 Mallow",
+      "space": "RGB",
+      "values": [
+        167.00000524520874,
+        131.00000739097595,
+        181.0000044107437
+      ],
+      "references": 1,
+      "hex": "#A783B5"
+    },
+    {
+      "name": "V17 Amethyst",
+      "space": "RGB",
+      "values": [
+        116.00000068545341,
+        109.00389209389687,
+        155.00000596046448
+      ],
+      "references": 1,
+      "hex": "#746D9B"
+    },
+    {
+      "name": "V20 Wisteria",
+      "space": "RGB",
+      "values": [
+        223.00000190734863,
+        219.99611109495163,
+        227.00000166893005
+      ],
+      "references": 1,
+      "hex": "#DFDCE3"
+    },
+    {
+      "name": "V22 Ash Lavender",
+      "space": "RGB",
+      "values": [
+        189.99611288309097,
+        189.00000393390656,
+        207.00000286102295
+      ],
+      "references": 1,
+      "hex": "#BEBDCF"
+    },
+    {
+      "name": "V25 Pale Blackberry",
+      "space": "RGB",
+      "values": [
+        147.00000643730164,
+        143.00000667572021,
+        173.00000488758087
+      ],
+      "references": 1,
+      "hex": "#938FAD"
+    },
+    {
+      "name": "V28 Eggplant",
+      "space": "RGB",
+      "values": [
+        92.00000211596489,
+        94.0000019967556,
+        118.00000056624413
+      ],
+      "references": 1,
+      "hex": "#5C5E76"
+    },
+    {
+      "name": "V91 Pale Grape",
+      "space": "RGB",
+      "values": [
+        229.99611049890518,
+        207.99611181020737,
+        211.00000262260437
+      ],
+      "references": 1,
+      "hex": "#E6D0D3"
+    },
+    {
+      "name": "V93 Early Grape",
+      "space": "RGB",
+      "values": [
+        211.9961115717888,
+        181.99611335992813,
+        191.99611276388168
+      ],
+      "references": 1,
+      "hex": "#D4B6C0"
+    },
+    {
+      "name": "V95 Light Grape",
+      "space": "RGB",
+      "values": [
+        179.99611347913742,
+        147.99611538648605,
+        161.99611455202103
+      ],
+      "references": 1,
+      "hex": "#B494A2"
+    },
+    {
+      "name": "V99 Aubergine",
+      "space": "RGB",
+      "values": [
+        98.00000175833702,
+        81.00389376282692,
+        89.00389328598976
+      ],
+      "references": 1,
+      "hex": "#625159"
+    },
+    {
+      "name": "W-0 Warm Gray No.0",
+      "space": "RGB",
+      "values": [
+        243.00000071525574,
+        241.00000083446503,
+        227.99611061811447
+      ],
+      "references": 1,
+      "hex": "#F3F1E4"
+    },
+    {
+      "name": "W-00 Warm Gray No.00",
+      "space": "RGB",
+      "values": [
+        247.00000047683716,
+        245.00000059604645,
+        233.00000131130219
+      ],
+      "references": 1,
+      "hex": "#F7F5E9"
+    },
+    {
+      "name": "W-1 Warm Gray No.1",
+      "space": "RGB",
+      "values": [
+        233.9961102604866,
+        229.00000154972076,
+        213.9961114525795
+      ],
+      "references": 1,
+      "hex": "#EAE5D6"
+    },
+    {
+      "name": "W-10 Warm Gray No.10",
+      "space": "RGB",
+      "values": [
+        74.0000031888485,
+        71.00389435887337,
+        69.00389447808266
+      ],
+      "references": 1,
+      "hex": "#4A4745"
+    },
+    {
+      "name": "W-2 Warm Gray No.2",
+      "space": "RGB",
+      "values": [
+        225.00000178813934,
+        219.0000021457672,
+        203.00000309944153
+      ],
+      "references": 1,
+      "hex": "#E1DBCB"
+    },
+    {
+      "name": "W-3 Warm Gray No.3",
+      "space": "RGB",
+      "values": [
+        205.99611192941666,
+        199.0000033378601,
+        181.99611335992813
+      ],
+      "references": 1,
+      "hex": "#CEC7B6"
+    },
+    {
+      "name": "W-4 Warm Gray No.4",
+      "space": "RGB",
+      "values": [
+        181.0000044107437,
+        173.00000488758087,
+        155.00000596046448
+      ],
+      "references": 1,
+      "hex": "#B5AD9B"
+    },
+    {
+      "name": "W-5 Warm Gray No.5",
+      "space": "RGB",
+      "values": [
+        151.99611514806747,
+        143.99611562490463,
+        129.00000751018524
+      ],
+      "references": 1,
+      "hex": "#989081"
+    },
+    {
+      "name": "W-6 Warm Gray No.6",
+      "space": "RGB",
+      "values": [
+        129.99611645936966,
+        122.00000032782555,
+        110.00000104308128
+      ],
+      "references": 1,
+      "hex": "#827A6E"
+    },
+    {
+      "name": "W-7 Warm Gray No.7",
+      "space": "RGB",
+      "values": [
+        104.00000140070915,
+        98.00000175833702,
+        90.00000223517418
+      ],
+      "references": 1,
+      "hex": "#68625A"
+    },
+    {
+      "name": "W-8 Warm Gray No.9",
+      "space": "RGB",
+      "values": [
+        75.00389412045479,
+        71.00389435887337,
+        67.00389459729195
+      ],
+      "references": 1,
+      "hex": "#4B4743"
+    },
+    {
+      "name": "W-9 Warm Gray No.8",
+      "space": "RGB",
+      "values": [
+        90.00000223517418,
+        85.00389352440834,
+        79.00389388203621
+      ],
+      "references": 1,
+      "hex": "#5A554F"
+    },
+    {
+      "name": "Y00 Barium Yellow",
+      "space": "RGB",
+      "values": [
+        249.00000035762787,
+        255.0,
+        155.9961149096489
+      ],
+      "references": 1,
+      "hex": "#F9FF9C"
+    },
+    {
+      "name": "Y000 Pale Lemon",
+      "space": "RGB",
+      "values": [
+        247.00000047683716,
+        255.0,
+        185.00000417232513
+      ],
+      "references": 1,
+      "hex": "#F7FFB9"
+    },
+    {
+      "name": "Y0000 Yellow Fluorite",
+      "space": "RGB",
+      "values": [
+        245.99610954523087,
+        255.0,
+        209.99611169099808
+      ],
+      "references": 1,
+      "hex": "#F6FFD2"
+    },
+    {
+      "name": "Y02 Canary Yellow",
+      "space": "RGB",
+      "values": [
+        255.0,
+        237.99611002206802,
+        98.00000175833702
+      ],
+      "references": 1,
+      "hex": "#FFEE62"
+    },
+    {
+      "name": "Y04 Acacia",
+      "space": "RGB",
+      "values": [
+        255.0,
+        241.00000083446503,
+        58.00000034272671
+      ],
+      "references": 1,
+      "hex": "#FFF13A"
+    },
+    {
+      "name": "Y06 Yellow",
+      "space": "RGB",
+      "values": [
+        255.0,
+        239.99610990285873,
+        0.0
+      ],
+      "references": 1,
+      "hex": "#FFF000"
+    },
+    {
+      "name": "Y08 Acid Yellow",
+      "space": "RGB",
+      "values": [
+        255.0,
+        203.00000309944153,
+        18.000000827014446
+      ],
+      "references": 1,
+      "hex": "#FFCB12"
+    },
+    {
+      "name": "Y11 Pale Yellow",
+      "space": "RGB",
+      "values": [
+        255.0,
+        247.00000047683716,
+        127.99610137939453
+      ],
+      "references": 1,
+      "hex": "#FFF780"
+    },
+    {
+      "name": "Y13 Lemon Yellow",
+      "space": "RGB",
+      "values": [
+        255.0,
+        237.99611002206802,
+        96.00000187754631
+      ],
+      "references": 1,
+      "hex": "#FFEE60"
+    },
+    {
+      "name": "Y15 Cadmium Yellow",
+      "space": "RGB",
+      "values": [
+        255.0,
+        205.99611192941666,
+        43.00389222800732
+      ],
+      "references": 1,
+      "hex": "#FFCE2B"
+    },
+    {
+      "name": "Y17 Golden Yellow",
+      "space": "RGB",
+      "values": [
+        255.0,
+        179.99611347913742,
+        43.00389222800732
+      ],
+      "references": 1,
+      "hex": "#FFB42B"
+    },
+    {
+      "name": "Y18 Lightning Yellow",
+      "space": "RGB",
+      "values": [
+        255.0,
+        187.99611300230026,
+        8.000000473111868
+      ],
+      "references": 1,
+      "hex": "#FFBC08"
+    },
+    {
+      "name": "Y19 Napoli Yellow",
+      "space": "RGB",
+      "values": [
+        255.0,
+        179.99611347913742,
+        36.00000165402889
+      ],
+      "references": 1,
+      "hex": "#FFB424"
+    },
+    {
+      "name": "Y21 Buttercup Yellow",
+      "space": "RGB",
+      "values": [
+        255.0,
+        211.9961115717888,
+        122.00000032782555
+      ],
+      "references": 1,
+      "hex": "#FFD47A"
+    },
+    {
+      "name": "Y23 Yellowish Beige",
+      "space": "RGB",
+      "values": [
+        255.0,
+        209.00000274181366,
+        131.99611634016037
+      ],
+      "references": 1,
+      "hex": "#FFD184"
+    },
+    {
+      "name": "Y26 Mustard",
+      "space": "RGB",
+      "values": [
+        235.9961101412773,
+        171.99611395597458,
+        66.00000366568565
+      ],
+      "references": 1,
+      "hex": "#ECAC42"
+    },
+    {
+      "name": "Y26 Mustard copy",
+      "space": "RGB",
+      "values": [
+        235.9961101412773,
+        171.99611395597458,
+        66.00000366568565
+      ],
+      "references": 2,
+      "hex": "#ECAC42"
+    },
+    {
+      "name": "Y28 Lionet Gold",
+      "space": "RGB",
+      "values": [
+        193.00000369548798,
+        159.99611467123032,
+        114.0000008046627
+      ],
+      "references": 1,
+      "hex": "#C1A072"
+    },
+    {
+      "name": "Y32 Cashmere",
+      "space": "RGB",
+      "values": [
+        255.0,
+        213.00000250339508,
+        143.00000667572021
+      ],
+      "references": 1,
+      "hex": "#FFD58F"
+    },
+    {
+      "name": "Y35 Maize",
+      "space": "RGB",
+      "values": [
+        255.0,
+        191.99611276388168,
+        70.00000342726707
+      ],
+      "references": 1,
+      "hex": "#FFC046"
+    },
+    {
+      "name": "Y38 Honey",
+      "space": "RGB",
+      "values": [
+        255.0,
+        165.99611431360245,
+        52.000000700354576
+      ],
+      "references": 2,
+      "hex": "#FFA634"
+    },
+    {
+      "name": "YG00 Mimosa Yellow",
+      "space": "RGB",
+      "values": [
+        249.00000035762787,
+        245.00000059604645,
+        127.00389102101326
+      ],
+      "references": 1,
+      "hex": "#F9F57F"
+    },
+    {
+      "name": "YG0000 Lily White",
+      "space": "RGB",
+      "values": [
+        251.00000023841858,
+        249.9961093068123,
+        197.99611240625381
+      ],
+      "references": 1,
+      "hex": "#FBFAC6"
+    },
+    {
+      "name": "YG01 Green Bice",
+      "space": "RGB",
+      "values": [
+        231.9961103796959,
+        241.00000083446503,
+        82.00000271201134
+      ],
+      "references": 1,
+      "hex": "#E8F152"
+    },
+    {
+      "name": "YG03 Yellow Green",
+      "space": "RGB",
+      "values": [
+        199.0000033378601,
+        213.00000250339508,
+        76.0000030696392
+      ],
+      "references": 1,
+      "hex": "#C7D54C"
+    },
+    {
+      "name": "YG05 Salad",
+      "space": "RGB",
+      "values": [
+        167.99611419439316,
+        217.99611121416092,
+        46.000001057982445
+      ],
+      "references": 1,
+      "hex": "#A8DA2E"
+    },
+    {
+      "name": "YG06 Yellowish Green",
+      "space": "RGB",
+      "values": [
+        143.99611562490463,
+        217.0000022649765,
+        75.00389412045479
+      ],
+      "references": 1,
+      "hex": "#90D94B"
+    },
+    {
+      "name": "YG07 Acid Green",
+      "space": "RGB",
+      "values": [
+        121.00389137864113,
+        201.99611216783524,
+        66.00000366568565
+      ],
+      "references": 1,
+      "hex": "#79CA42"
+    },
+    {
+      "name": "YG09 Lettuce Green",
+      "space": "RGB",
+      "values": [
+        69.00389447808266,
+        175.996113717556,
+        70.00000342726707
+      ],
+      "references": 1,
+      "hex": "#45B046"
+    },
+    {
+      "name": "YG11 Mignonette",
+      "space": "RGB",
+      "values": [
+        217.0000022649765,
+        243.99610966444016,
+        163.99611443281174
+      ],
+      "references": 1,
+      "hex": "#D9F4A4"
+    },
+    {
+      "name": "YG13 Chartreuse",
+      "space": "RGB",
+      "values": [
+        173.9961138367653,
+        211.9961115717888,
+        78.00000295042992
+      ],
+      "references": 1,
+      "hex": "#AED44E"
+    },
+    {
+      "name": "YG17 Grass Green",
+      "space": "RGB",
+      "values": [
+        131.99611634016037,
+        161.99611455202103,
+        81.00389376282692
+      ],
+      "references": 1,
+      "hex": "#84A251"
+    },
+    {
+      "name": "YG21 Anise",
+      "space": "RGB",
+      "values": [
+        247.99610942602158,
+        235.9961101412773,
+        114.0000008046627
+      ],
+      "references": 1,
+      "hex": "#F8EC72"
+    },
+    {
+      "name": "YG23 New Leaf",
+      "space": "RGB",
+      "values": [
+        177.0000046491623,
+        203.99611204862595,
+        60.00000022351742
+      ],
+      "references": 1,
+      "hex": "#B1CC3C"
+    },
+    {
+      "name": "YG25 Celadon Green",
+      "space": "RGB",
+      "values": [
+        165.99611431360245,
+        187.99611300230026,
+        64.00000378489494
+      ],
+      "references": 1,
+      "hex": "#A6BC40"
+    },
+    {
+      "name": "YG41 Pale Cobalt Green",
+      "space": "RGB",
+      "values": [
+        175.996113717556,
+        231.9961103796959,
+        161.0000056028366
+      ],
+      "references": 1,
+      "hex": "#B0E8A1"
+    },
+    {
+      "name": "YG45 Cobalt Green",
+      "space": "RGB",
+      "values": [
+        100.00000163912773,
+        165.00000536441803,
+        106.00000128149986
+      ],
+      "references": 1,
+      "hex": "#64A56A"
+    },
+    {
+      "name": "YG61 Pale Moss",
+      "space": "RGB",
+      "values": [
+        213.9961114525795,
+        221.99611097574234,
+        175.996113717556
+      ],
+      "references": 1,
+      "hex": "#D6DEB0"
+    },
+    {
+      "name": "YG63 Pea Green",
+      "space": "RGB",
+      "values": [
+        145.99611550569534,
+        161.99611455202103,
+        107.00389221310616
+      ],
+      "references": 1,
+      "hex": "#92A26B"
+    },
+    {
+      "name": "YG67 Moss",
+      "space": "RGB",
+      "values": [
+        102.00000151991844,
+        125.00389114022255,
+        78.00000295042992
+      ],
+      "references": 1,
+      "hex": "#667D4E"
+    },
+    {
+      "name": "YG67 Moss copy",
+      "space": "RGB",
+      "values": [
+        102.00000151991844,
+        125.00389114022255,
+        78.00000295042992
+      ],
+      "references": 2,
+      "hex": "#667D4E"
+    },
+    {
+      "name": "YG91 Putty",
+      "space": "RGB",
+      "values": [
+        205.00000298023224,
+        189.00000393390656,
+        143.99611562490463
+      ],
+      "references": 1,
+      "hex": "#CDBD90"
+    },
+    {
+      "name": "YG93 Grayish Yellow",
+      "space": "RGB",
+      "values": [
+        177.0000046491623,
+        169.99611407518387,
+        107.00389221310616
+      ],
+      "references": 1,
+      "hex": "#B1AA6B"
+    },
+    {
+      "name": "YG95 Pale Olive",
+      "space": "RGB",
+      "values": [
+        161.99611455202103,
+        137.9961159825325,
+        78.00000295042992
+      ],
+      "references": 1,
+      "hex": "#A28A4E"
+    },
+    {
+      "name": "YG97 Spanish Olive",
+      "space": "RGB",
+      "values": [
+        123.00389125943184,
+        111.00389197468758,
+        81.00389376282692
+      ],
+      "references": 1,
+      "hex": "#7B6F51"
+    },
+    {
+      "name": "YG99 Marine Green",
+      "space": "RGB",
+      "values": [
+        97.0038928091526,
+        92.00000211596489,
+        68.00000354647636
+      ],
+      "references": 1,
+      "hex": "#615C44"
+    },
+    {
+      "name": "YR00 Powder Pink",
+      "space": "RGB",
+      "values": [
+        255.0,
+        203.99611204862595,
+        169.00000512599945
+      ],
+      "references": 1,
+      "hex": "#FFCCA9"
+    },
+    {
+      "name": "YR000 Silk",
+      "space": "RGB",
+      "values": [
+        255.0,
+        229.00000154972076,
+        205.00000298023224
+      ],
+      "references": 1,
+      "hex": "#FFE5CD"
+    },
+    {
+      "name": "YR0000 Pale Chiffon",
+      "space": "RGB",
+      "values": [
+        255.0,
+        243.00000071525574,
+        227.00000166893005
+      ],
+      "references": 1,
+      "hex": "#FFF3E3"
+    },
+    {
+      "name": "YR01 Peach Puff",
+      "space": "RGB",
+      "values": [
+        255.0,
+        189.00000393390656,
+        151.00000619888306
+      ],
+      "references": 1,
+      "hex": "#FFBD97"
+    },
+    {
+      "name": "YR02 Light Orange",
+      "space": "RGB",
+      "values": [
+        255.0,
+        159.0000057220459,
+        113.00389185547829
+      ],
+      "references": 1,
+      "hex": "#FF9F71"
+    },
+    {
+      "name": "YR04 Chrome Orange",
+      "space": "RGB",
+      "values": [
+        255.0,
+        139.9961158633232,
+        54.00000058114529
+      ],
+      "references": 1,
+      "hex": "#FF8C36"
+    },
+    {
+      "name": "YR07 Cadmium Orange",
+      "space": "RGB",
+      "values": [
+        249.00000035762787,
+        100.00000163912773,
+        45.00389210879803
+      ],
+      "references": 1,
+      "hex": "#F9642D"
+    },
+    {
+      "name": "YR09 Chinese Orange",
+      "space": "RGB",
+      "values": [
+        231.9961103796959,
+        89.00389328598976,
+        58.00000034272671
+      ],
+      "references": 1,
+      "hex": "#E8593A"
+    },
+    {
+      "name": "YR12 Loquat",
+      "space": "RGB",
+      "values": [
+        255.0,
+        163.99611443281174,
+        87.00389340519905
+      ],
+      "references": 1,
+      "hex": "#FFA457"
+    },
+    {
+      "name": "YR14 Caramel",
+      "space": "RGB",
+      "values": [
+        255.0,
+        143.99611562490463,
+        72.00000330805779
+      ],
+      "references": 1,
+      "hex": "#FF9048"
+    },
+    {
+      "name": "YR15 Pumpkin Yellow",
+      "space": "RGB",
+      "values": [
+        255.0,
+        149.99611526727676,
+        62.00000010430813
+      ],
+      "references": 1,
+      "hex": "#FF963E"
+    },
+    {
+      "name": "YR16 Apricot",
+      "space": "RGB",
+      "values": [
+        255.0,
+        135.00000715255737,
+        38.0000015348196
+      ],
+      "references": 1,
+      "hex": "#FF8726"
+    },
+    {
+      "name": "YR18 Sanguine",
+      "space": "RGB",
+      "values": [
+        219.0000021457672,
+        101.00389257073402,
+        63.00389103591442
+      ],
+      "references": 1,
+      "hex": "#DB653F"
+    },
+    {
+      "name": "YR20 Yellowish Shade",
+      "space": "RGB",
+      "values": [
+        255.0,
+        219.99611109495163,
+        173.9961138367653
+      ],
+      "references": 1,
+      "hex": "#FFDCAE"
+    },
+    {
+      "name": "YR21 Cream",
+      "space": "RGB",
+      "values": [
+        255.0,
+        197.99611240625381,
+        117.00389161705971
+      ],
+      "references": 1,
+      "hex": "#FFC675"
+    },
+    {
+      "name": "YR23 Yellow Ochre",
+      "space": "RGB",
+      "values": [
+        239.00000095367432,
+        157.0000058412552,
+        70.00000342726707
+      ],
+      "references": 1,
+      "hex": "#EF9D46"
+    },
+    {
+      "name": "YR24 Pale Sepia",
+      "space": "RGB",
+      "values": [
+        233.00000131130219,
+        141.0000067949295,
+        48.000000938773155
+      ],
+      "references": 1,
+      "hex": "#E98D30"
+    },
+    {
+      "name": "YR27 Tuscan Orange",
+      "space": "RGB",
+      "values": [
+        187.00000405311584,
+        90.00000223517418,
+        49.00389187037945
+      ],
+      "references": 1,
+      "hex": "#BB5A31"
+    },
+    {
+      "name": "YR27 Tuscan Orange Alt copy",
+      "space": "RGB",
+      "values": [
+        210.0,
+        90.00000223517418,
+        49.00389187037945
+      ],
+      "references": 1,
+      "hex": "#D25A31"
+    },
+    {
+      "name": "YR30 Macadamia Nut",
+      "space": "RGB",
+      "values": [
+        253.9961090683937,
+        243.00000071525574,
+        215.9961113333702
+      ],
+      "references": 1,
+      "hex": "#FEF3D8"
+    },
+    {
+      "name": "YR31 Light Reddish Yellow",
+      "space": "RGB",
+      "values": [
+        255.0,
+        207.99611181020737,
+        125.00389114022255
+      ],
+      "references": 1,
+      "hex": "#FFD07D"
+    },
+    {
+      "name": "YR61 Yellowish Skin Pink",
+      "space": "RGB",
+      "values": [
+        255.0,
+        195.9961125254631,
+        163.00000548362732
+      ],
+      "references": 1,
+      "hex": "#FFC4A3"
+    },
+    {
+      "name": "YR65 Atoll",
+      "space": "RGB",
+      "values": [
+        255.0,
+        157.9961147904396,
+        104.00000140070915
+      ],
+      "references": 1,
+      "hex": "#FF9E68"
+    },
+    {
+      "name": "YR68 Orange",
+      "space": "RGB",
+      "values": [
+        251.996109187603,
+        105.00389233231544,
+        50.000000819563866
+      ],
+      "references": 1,
+      "hex": "#FC6932"
+    },
+    {
+      "name": "YR82 Mellow Peach",
+      "space": "RGB",
+      "values": [
+        255.0,
+        213.00000250339508,
+        155.00000596046448
+      ],
+      "references": 1,
+      "hex": "#FFD59B"
+    },
+    {
+      "name": "Yellow",
+      "space": "CMYK",
+      "values": [
+        0.0,
+        0.0,
+        100.0,
+        0.0
+      ],
+      "references": 0
+    },
+    {
+      "name": "$ID/",
+      "space": "CMYK",
+      "values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "references": 0
+    },
+    {
+      "name": "$ID/",
+      "space": "CMYK",
+      "values": [
+        0.0,
+        0.0,
+        0.0,
+        100.0
+      ],
+      "references": 0
+    }
+  ]
+}
