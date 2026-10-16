@@ -1,6 +1,6 @@
 # The Shrubbery
 
-A Markdown workshop for creating adventures, reaches, hazards, and character options for **The Wildsea**, published by **[Mythworks](https://www.myth.works/)**. Inspired by [Deltagreenery](https://github.com/Berlinia/deltagreenery) and [the Homebrewery](https://homebrewery.naturalcrit.com/), Shrubbery combines a text editor with a live book-style preview. Its layouts follow the Wildsea templates, with a deliberately smaller set of controls than InDesign.
+A Markdown workshop for creating adventures, reaches, hazards, and character options for **The Wildsea**, published by **[Mythworks](https://www.myth.works/)**. Inspired by [Deltagreenery](https://github.com/Berlinia/deltagreenery) and [the Homebrewery](https://homebrewery.naturalcrit.com/), Shrubbery combines a text editor with a live book-style preview. Its layouts follow the Wildsea templates.
 
 **[Open The Shrubbery](https://berlinia.github.io/theshrubbery/)** · [Deployment status](https://github.com/Berlinia/theshrubbery/actions/workflows/pages.yml)
 
