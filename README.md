@@ -49,6 +49,105 @@ The box inherits the section accent.
 
 This track has ten connected circles, with breaks after circles three and five. Other tools include leaf bullets, striped tables and fields, outlined boxes, and two/three-column layouts. Page breaks are explicit: overflowing content does not automatically flow to another page. Warnings identify where to shorten text or add `\page`.
 
+## See it in action
+
+The source stays on the left while the pages update on the right. The built-in **six-page guide** is itself an editable document: change an example and see the result immediately.
+
+![The Shrubbery editor with Markdown and a live Wildsea page preview](docs/images/workshop.png)
+
+### Tables: preview, insert, edit
+
+Open **Tables** and hover over a choice. The preview uses the current page’s accent; click to insert its Markdown. Choose striped, plain, ruled, compact, or roll tables, labelled fields, or an enclosed table.
+
+![Tables menu previewing an enclosed red roll table](docs/images/tables.png)
+
+For a simple striped table, write:
+
+```markdown
+| d6 | Result |
+|:---:|:---|
+| 1–2 | First outcome. |
+| 3–4 | Second outcome. |
+| 5–6 | Third outcome. |
+```
+
+For labelled facts without column headings, use **Striped fields**:
+
+```text
+{{fields
+**Essentials:** Name, bloodline, and role.
+**Attitude:** How they respond to the crew.
+**Appearance:** A memorable visual detail.
+}}
+```
+
+### Columns: arrange the page
+
+Choose equal columns, a wide section beside a narrow sidebar, or two columns sharing a heading beside a third sidebar. Hover to compare the arrangements before inserting.
+
+![Columns menu previewing two columns with a shared heading and a sidebar](docs/images/columns.png)
+
+This creates a wide left column and a narrow right column:
+
+```text
+{{columns,two-one
+## Main section
+Write your main text here.
+
+\column
+
+{{box
+### Sidebar
+A short supporting detail.
+}}
+}}
+```
+
+Change `two-one` to `one-two` to reverse the proportions. Use `two` or `three` for equal columns. Each `\column` starts the next column; close the inner box before closing the outer layout. Put a heading or box before the columns block to make it span the page.
+
+### Blocks: combine boxes, lists, and tracks
+
+Insert an enclosed box, Firefly note, leaf-bullet list, quotation, accented subtitle, or connected track. These can sit directly on a page or inside a column.
+
+![Blocks menu previewing a ten-circle track with two breaks](docs/images/blocks.png)
+
+```text
+{{box
+### Progress {{accent (Three stages)}}
+Explain what marks the track and what changes at each break.
+
+{{track 3|2|5}}
+}}
+```
+
+`3|2|5` means **ten circles**, with breaks after the third and fifth circles. The box and track inherit the page accent. Change the numbers to resize the groups; use `6` for one unbroken track.
+
+### Templates: start with a complete structure
+
+1. Create a blank document and choose **Templates → Reach**.
+2. The editor inserts ten editable pages, starting with a cover. The first content page is **Main Elements**, with five subsections and encounter descriptors.
+3. The next page contains two territories, each with factoids and three features. Later pages add ports, factions, and reference material.
+4. Replace the prompts, delete sections you do not need, or copy them to add more. Choose **Page style → Current section** to change the whole reach’s accent.
+
+| First content page: Main Elements | Next page: Territories |
+| --- | --- |
+| ![Reach Main Elements template with five subsections](docs/images/reach-elements.png) | ![Reach territory template with two territories and their features](docs/images/reach-territories.png) |
+
+These are screenshots of the actual inserted template. Selecting one adds the complete structure after your current page, or fills an empty page, without replacing existing writing. Each template starts a new red-accented section; edit `header=true accent=red` on its first page to choose another color.
+
+### Learn by editing the guide
+
+Choose **My documents → Open guide** for a fresh copy. Its six pages cover:
+
+1. Markdown basics and the editor controls.
+2. Boxes, striped fields, and standard tables.
+3. Column layouts, colors, saving, printing, and tracks.
+4. Plain, ruled, compact, and roll-table comparisons.
+5. A wide box above three columns, with notes, lists, quotations, and tracks.
+6. Choosing a template, setting section accents, using Style/Snippets/Properties, and exporting your work.
+
+Try changing a table row, turning `two-one` into `one-two`, or editing a track’s groups. Your changes remain ordinary Markdown that you can download and reuse.
+
 ## Static website
 
 The application runs in your browser. GitHub Pages serves only `dist/`; there is no application backend, database, site account, or document upload to the host. Relative asset paths work at the domain root or `/theshrubbery/` without a build step.
@@ -127,3 +226,5 @@ node tests/previews.mjs
 ```
 
 Set `PLAYWRIGHT_MODULE` to an installed Playwright module URL/path when it is not locally resolvable. Screenshots and PDFs are written under the ignored `tmp/` directory.
+
+README screenshots can be refreshed with `node tests/readme-screenshots.mjs` while the local server is running.

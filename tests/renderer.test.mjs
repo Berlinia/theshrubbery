@@ -33,8 +33,8 @@ test('reference templates preserve their key section sequences',()=>{
  assert.match(scenario[12],/track-break/);assert.match(scenario[13],/Credits and Legal/);
  assert.equal((pages('character')[1].match(/Track Length \+ Type/g)||[]).length,16);
 });
-test('guide exercises three valid pages and nested layouts',()=>{
- const result=renderDocument(emptyDocument(EXAMPLE));assert.equal(result.pages.length,3);assert.deepEqual(result.warnings,[]);
+test('guide exercises six valid pages and nested layouts',()=>{
+ const result=renderDocument(emptyDocument(EXAMPLE));assert.equal(result.pages.length,6);assert.deepEqual(result.warnings,[]);
  assert.match(result.pages[0].html,/columns two-one/);assert.match(result.pages[0].html,/columns two/);
  assert.equal((result.pages[1].html.match(/class="box"/g)||[]).length,4);
  assert.match(result.pages[1].html,/--accent:#ECAC42;--tint:#fbefd9;--border:#2d2b2c/);

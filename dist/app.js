@@ -2,7 +2,7 @@ import {createSnippetPreview} from './snippetPreview.js';
 import { setupWorkspace, applyDocumentStyle } from './workspace.js';
 import { emptyDocument, parseDocument, serializeDocument, PALETTE } from './documentFormat.js';
 import { renderDocument, escapeHTML } from './renderer.js';
-import { EXAMPLE, GUIDE_TITLE, LEGACY_EXAMPLE_HASH, SNIPPETS } from './examples.js';
+import { EXAMPLE, GUIDE_TITLE, LEGACY_EXAMPLE_HASH, PREVIOUS_GUIDE_HASH, SNIPPETS } from './examples.js';
 import { CATEGORIES } from './snippets.js';
 import { createDriveClient, loadGoogleIdentity } from './googleDrive.js';
 const $=id=>document.getElementById(id);
@@ -15,7 +15,7 @@ let clientId=window.WILDSEA_CONFIG?.googleClientId||'';
 try {clientId=localStorage.getItem('wildsea-shrubbery.oauth-client')||clientId; const data=JSON.parse(localStorage.getItem(STORAGE)||'{}');documents=Array.isArray(data.documents)?data.documents.filter(d=>d && typeof d.id==='string' && typeof d.text==='string' && typeof d.title==='string'):[];current=documents.find(d=>d.id===data.active)||documents[0];}catch{storageFailed=true;}
 // Upgrade only the untouched starter; never replace someone's edited or Drive-linked draft.
 const fingerprint=text=>{let hash=2166136261;for(let i=0;i<text.length;i++)hash=Math.imul(hash^text.charCodeAt(i),16777619);return hash>>>0;};
-for(const doc of documents){if(!doc.drive && doc.title==='The Orchard at the End of the World' && fingerprint(doc.text)===LEGACY_EXAMPLE_HASH){doc.text=EXAMPLE;doc.title=GUIDE_TITLE;}}
+for(const doc of documents){if(!doc.drive && ((doc.title==='The Orchard at the End of the World' && fingerprint(doc.text)===LEGACY_EXAMPLE_HASH)||(doc.title===GUIDE_TITLE && fingerprint(doc.text)===PREVIOUS_GUIDE_HASH))){doc.text=EXAMPLE;doc.title=GUIDE_TITLE;}}
 if(!current){current={...emptyDocument(EXAMPLE),id:crypto.randomUUID(),title:GUIDE_TITLE,updatedAt:new Date().toISOString()};documents.push(current);}
 let drive=createDriveClient({clientId});
 const editor=CodeMirror.fromTextArea($('source'),{mode:'markdown',lineNumbers:true,lineWrapping:true,tabSize:2,indentUnit:2,viewportMargin:20,extraKeys:{'Ctrl-S':()=>saveDraft(true),'Cmd-S':()=>saveDraft(true),'Ctrl-Shift-S':()=>saveDrive(false),'Cmd-Shift-S':()=>saveDrive(false),'Tab':cm=>cm.replaceSelection('  ')}});

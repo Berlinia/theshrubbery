@@ -7,9 +7,9 @@ const errors=[];page.on('pageerror',e=>errors.push(e.message));
 await fs.mkdir('tmp/pdfs',{recursive:true});
 try{
  await page.goto('http://localhost:4173');await page.waitForSelector('.sheet');await page.evaluate(()=>document.fonts.ready);
- assert.equal(await page.locator('.sheet').count(),3);
+ assert.equal(await page.locator('.sheet').count(),6);
  assert.equal(await page.locator('#warnings').isVisible(),false);
- assert.equal(await page.locator('.license-footer').count(),3);
+ assert.equal(await page.locator('.license-footer').count(),6);
  assert.ok(await page.locator('.license-footer').evaluateAll(es=>es.every(e=>e.textContent.includes('Quillhound Studios and Felix Isaacs')&&e.querySelector('img').complete)));
  assert.ok(await page.locator('.sheet').evaluateAll(es=>es.every(e=>{const content=e.querySelector('.page-content').getBoundingClientRect();const footer=e.querySelector('.license-footer').getBoundingClientRect();return content.bottom<footer.top;})));
  await page.locator('#insert-button').click();
@@ -20,7 +20,7 @@ try{
  await page.locator('.sheet').nth(1).screenshot({path:'tmp/pdfs/broadcast-page.png'});
  await page.locator('.sheet').nth(2).screenshot({path:'tmp/pdfs/locations-page.png'});
  await page.pdf({path:'tmp/pdfs/print-verification.pdf',preferCSSPageSize:true,printBackground:true});
- await page.locator('#spread-button').click();assert.equal(await page.locator('#pages').getAttribute('class'),'spreads');
+ await page.locator('#spread-button').click();assert.equal(await page.locator('.preview-panel #pages').getAttribute('class'),'spreads');
  await page.locator('#zoom').selectOption('0.75');assert.match(await page.locator('.sheet').first().getAttribute('style'),/scale\(0.75\)/);
  await page.locator('#spread-button').click();await page.locator('#zoom').selectOption('fit');
  await page.locator('#drive-button').click();assert.equal(await page.locator('#client-id').inputValue(),'');assert.equal(await page.locator('#connect-drive').isDisabled(),true);
